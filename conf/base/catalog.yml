@@ -34,7 +34,7 @@ testing_data:
     header: true
 
 predictions:
-  type: spark.SparkDataSet
+  type: pandas.CSVDataSet
   filepath: dbfs:/FileStore/predictions.csv
   file_format: csv
   load_args:
