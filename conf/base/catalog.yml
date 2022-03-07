@@ -22,7 +22,7 @@ agent_routing:
     sep: ","
     header: true
 
-testing_data:
+infer_data:
   type: spark.SparkDataSet
   filepath: dbfs:/FileStore/Testing_Data.csv
   file_format: csv
