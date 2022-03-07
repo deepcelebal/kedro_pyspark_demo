@@ -22,7 +22,8 @@ def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> RandomF
     https://spark.apache.org/docs/latest/ml-classification-regression.html#random-forest-classifier
     """
     experiment_id = mlflow.create_experiment("Agent_Routing_Pyspark" + str(dt.datetime.now()))
-    experiment = mlflow.get_experiment(experiment_id)
+    experiment = mlflow.get_experiment(experiment_id) 
+    
     with mlflow.start_run(experiment_id=experiment.experiment_id):
         
         classifier = RandomForestClassifier(featuresCol = 'features', labelCol = 'Converted')
@@ -30,5 +31,6 @@ def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> RandomF
         sklearn.log_model(
                     sk_model=rfModel, artifact_path="model"
                 )
+        
         print('*******************Training Finished*******************')
 
