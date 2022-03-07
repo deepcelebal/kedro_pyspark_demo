@@ -27,9 +27,22 @@ def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> RandomF
         
         classifier = RandomForestClassifier(featuresCol = 'features', labelCol = 'Converted')
         rfModel = classifier.fit(training_data)
-        sklearn.log_model(
-                    sk_model=rfModel, artifact_path="model"
-                )
+        sklearn.log_model(sk_model=rfModel, artifact_path="model_rf")
         
         print('*******************Training Finished*******************')
 
+# def predict(model: RandomForestClassifier, testing_data: DataFrame) -> DataFrame:
+#     """Node for making predictions given a pre-trained model and a testing dataset."""
+
+#     model = /mlruns/2/
+#     predictions = model.transform(testing_data)
+
+#     evaluator = MulticlassClassificationEvaluator(
+#         labelCol="Converted", predictionCol="prediction", metricName="accuracy"
+#     )
+#     accuracy = evaluator.evaluate(predictions)
+#     log = logging.getLogger(__name__)
+#     log.info("Model accuracy: %0.2f%%", accuracy * 100)
+#     print('*******************Mode Accuracy*******************', accuracy * 100)
+
+    
