@@ -1,0 +1,1001 @@
+﻿CE_Age,CE_Language,CE_Experties,CE_Total_Handled_Leads,CE_Successful_Leads,C_Language,C_Timeperiod_months,C_Field,C_Times_Call,C_Products_Subscribed,C_Premium_Products_Subscribed,C_Call_On_Same_Topic,C_Default_Premium,Call_Duration_Sec,Converted
+36,Hindi,"['Education Insurance', 'Health Insurance']",97,2,Hindi,9,Life Insurance,14.2942063,3,1,0,3,632.998115,0
+41,English,"['Home Insurance', 'Health Insurance', 'Education Insurance']",83,5,English,45,Car Insurance,29.51331793,5,4,3,1,361.4908153,0
+38,English,"['Life Insurance', 'Car Insurance']",49,2,English,46,Education Insurance,20.61099688,9,3,2,0,603.6206614,0
+21,Urdu,['Life Insurance'],34,2,Urdu,6,Health Insurance,30.24054672,18,8,5,0,606.3085685,1
+46,Urdu,"['Home Insurance', 'Car Insurance', 'Life Insurance']",84,5,Urdu,40,Home Insurance,31.43688089,10,7,9,3,527.4134415,0
+29,Telgu,['Education Insurance'],84,2,Telgu,12,Life Insurance,19.99970714,4,0,0,1,291.7087316,0
+44,Hindi,"['Home Insurance', 'Car Insurance', 'Health Insurance']",93,3,Hindi,7,Car Insurance,28.00351083,5,4,2,0,336.7755229,0
+47,Telgu,"['Health Insurance', 'Home Insurance', 'Education Insurance']",95,6,Telgu,4,Education Insurance,31.3037266,18,7,6,0,462.3725372,1
+37,English,"['Car Insurance', 'Home Insurance']",76,3,English,12,Life Insurance,17.94588449,1,1,0,0,322.2155059,0
+46,English,"['Car Insurance', 'Life Insurance', 'Education Insurance']",27,1,English,43,Home Insurance,32.90168673,17,6,7,0,430.6607362,1
+27,Marathi,['Life Insurance'],35,2,Marathi,33,Home Insurance,23.48163697,6,2,2,2,450.1791221,0
+38,Marathi,"['Health Insurance', 'Education Insurance']",27,1,Marathi,24,Education Insurance,23.94902125,6,4,4,4,344.9263124,0
+30,English,"['Car Insurance', 'Life Insurance']",51,1,English,18,Car Insurance,20.1767277,9,2,2,4,358.1596121,0
+24,Marathi,['Education Insurance'],27,1,Marathi,33,Car Insurance,22.77577498,8,3,3,1,509.9602072,0
+21,Marathi,['Life Insurance'],63,4,Marathi,27,Education Insurance,29.73371756,6,3,2,0,458.6152877,0
+36,Hindi,"['Home Insurance', 'Car Insurance']",59,3,Hindi,21,Car Insurance,30.46989207,12,9,9,3,596.4960154,0
+32,Hindi,"['Life Insurance', 'Home Insurance']",73,1,Hindi,25,Life Insurance,20.73422049,8,2,3,0,451.4026376,0
+23,Marathi,['Life Insurance'],72,5,Marathi,46,Life Insurance,20.83051796,8,4,4,0,486.2435001,1
+44,Telgu,"['Education Insurance', 'Health Insurance', 'Home Insurance']",68,5,Telgu,48,Health Insurance,25.71605029,7,2,3,0,461.0241783,0
+36,Telgu,"['Education Insurance', 'Car Insurance']",86,1,Telgu,40,Home Insurance,27.10913103,8,4,3,0,310.9491108,0
+42,Hindi,"['Home Insurance', 'Education Insurance', 'Health Insurance']",99,8,Hindi,21,Education Insurance,32.80128166,15,5,5,0,352.4529718,1
+48,Marathi,"['Car Insurance', 'Health Insurance', 'Education Insurance']",94,4,Marathi,12,Health Insurance,30.37401954,12,9,7,0,405.0372257,1
+35,Telgu,"['Education Insurance', 'Health Insurance']",49,1,Telgu,35,Education Insurance,15.68569915,1,0,1,2,546.3871241,0
+40,Telgu,"['Education Insurance', 'Life Insurance', 'Health Insurance']",53,2,Telgu,21,Home Insurance,27.20687933,6,2,3,3,402.1071936,0
+35,English,"['Car Insurance', 'Home Insurance']",23,1,English,40,Car Insurance,17.18797599,3,1,1,1,399.1027011,0
+24,Hindi,['Car Insurance'],35,2,Hindi,22,Education Insurance,10.19964505,4,1,0,2,456.2657479,0
+28,Telgu,['Car Insurance'],53,4,Telgu,36,Education Insurance,19.96142474,1,0,1,0,449.4577215,0
+45,Marathi,"['Education Insurance', 'Health Insurance', 'Life Insurance']",39,1,Marathi,2,Car Insurance,19.19295687,2,1,0,0,582.9180381,0
+20,Telgu,['Health Insurance'],34,2,Telgu,25,Education Insurance,25.74250112,5,4,2,2,212.1333461,0
+27,Hindi,['Health Insurance'],67,5,Hindi,9,Car Insurance,26.88552868,7,4,2,1,552.8734891,0
+25,English,['Health Insurance'],64,2,English,43,Life Insurance,24.75668406,7,4,3,0,534.5195164,0
+39,English,"['Car Insurance', 'Education Insurance']",76,6,English,3,Health Insurance,19.90901165,4,1,1,0,351.3886592,0
+42,Marathi,"['Health Insurance', 'Home Insurance', 'Education Insurance']",58,2,Marathi,32,Life Insurance,26.75096596,7,4,4,0,406.9586614,1
+31,English,"['Life Insurance', 'Home Insurance']",25,1,English,14,Car Insurance,22.63804466,5,3,2,2,352.3850824,0
+42,Urdu,"['Education Insurance', 'Health Insurance', 'Car Insurance']",72,3,Urdu,45,Car Insurance,21.20076576,7,4,2,0,445.8073227,0
+27,English,['Car Insurance'],27,1,English,41,Car Insurance,30.29123129,14,7,8,0,497.4061208,1
+41,Urdu,"['Life Insurance', 'Education Insurance', 'Car Insurance']",43,1,Urdu,5,Health Insurance,27.90511511,6,4,4,4,505.5706388,0
+30,Marathi,"['Health Insurance', 'Car Insurance']",33,2,Marathi,34,Car Insurance,19.55187338,3,0,0,0,497.0829319,0
+34,Marathi,"['Car Insurance', 'Life Insurance']",30,2,Marathi,31,Life Insurance,30.82945174,11,8,9,2,155.1974706,1
+41,Urdu,"['Home Insurance', 'Life Insurance', 'Car Insurance']",32,2,Urdu,37,Car Insurance,17.22178812,1,1,1,0,332.6449016,0
+47,Telgu,"['Home Insurance', 'Education Insurance', 'Health Insurance']",29,1,Telgu,38,Life Insurance,28.94966256,6,3,3,3,445.1501756,0
+21,Hindi,['Car Insurance'],52,4,Hindi,40,Health Insurance,24.8061144,5,3,3,3,584.4100903,0
+21,Telgu,['Education Insurance'],96,8,Telgu,31,Health Insurance,33.26223053,11,6,7,1,479.6317145,1
+42,Hindi,"['Car Insurance', 'Life Insurance', 'Education Insurance']",55,1,Hindi,47,Education Insurance,28.87319122,8,2,2,0,503.5152505,0
+35,Urdu,"['Car Insurance', 'Home Insurance']",36,2,Urdu,10,Health Insurance,19.40195537,4,0,0,0,499.9303981,0
+47,Hindi,"['Life Insurance', 'Car Insurance', 'Home Insurance']",90,2,Hindi,11,Car Insurance,27.85374208,8,4,2,0,405.0031857,0
+24,Telgu,['Education Insurance'],80,3,Telgu,20,Car Insurance,27.38403331,8,3,2,2,502.5275681,0
+27,Telgu,['Life Insurance'],21,1,Telgu,0,Home Insurance,28.82758313,8,2,3,4,439.6416403,0
+38,Urdu,"['Life Insurance', 'Health Insurance']",36,1,Urdu,45,Education Insurance,33.82058846,17,9,9,1,403.5012359,1
+32,English,"['Health Insurance', 'Home Insurance']",61,4,English,38,Car Insurance,20.56607787,5,4,3,3,643.6917421,0
+33,Hindi,"['Home Insurance', 'Car Insurance']",46,3,Hindi,2,Life Insurance,29.02927106,8,2,4,4,359.1660552,0
+22,Urdu,['Health Insurance'],73,4,Urdu,37,Education Insurance,33.23844648,14,7,5,0,398.9787137,1
+39,Hindi,"['Education Insurance', 'Health Insurance']",67,3,Hindi,0,Health Insurance,29.10289662,6,3,4,1,247.4000658,1
+21,Hindi,['Health Insurance'],26,1,Hindi,5,Life Insurance,22.93677267,9,4,2,4,428.7959082,0
+42,Marathi,"['Education Insurance', 'Car Insurance', 'Life Insurance']",58,3,Marathi,41,Car Insurance,21.16633014,6,4,3,0,354.1380661,0
+23,Telgu,['Home Insurance'],63,5,Telgu,20,Car Insurance,22.68266261,5,3,4,0,455.2155297,1
+40,Telgu,"['Home Insurance', 'Life Insurance', 'Education Insurance']",67,3,Telgu,48,Education Insurance,31.25750734,14,7,5,0,696.8372145,1
+30,Hindi,"['Home Insurance', 'Health Insurance']",46,2,Hindi,12,Home Insurance,29.41717212,5,3,3,0,526.8183182,0
+25,Urdu,['Life Insurance'],20,1,Urdu,31,Health Insurance,20.00151325,5,4,2,1,624.9839796,0
+49,Hindi,"['Life Insurance', 'Health Insurance', 'Car Insurance']",98,7,Hindi,24,Car Insurance,27.57182401,5,3,3,1,451.6192123,0
+45,English,"['Health Insurance', 'Car Insurance', 'Home Insurance']",98,7,English,31,Life Insurance,25.33908344,5,3,2,0,504.3933712,0
+26,English,['Life Insurance'],50,3,English,2,Home Insurance,20.34810347,8,3,4,2,530.9003694,1
+45,Urdu,"['Home Insurance', 'Car Insurance', 'Health Insurance']",69,2,Urdu,19,Health Insurance,22.13240221,6,2,4,0,576.2223059,1
+42,English,"['Health Insurance', 'Education Insurance', 'Car Insurance']",78,5,English,38,Home Insurance,24.55127805,9,4,2,0,482.4428314,0
+21,Hindi,['Car Insurance'],89,1,Hindi,42,Education Insurance,28.90960326,7,3,3,4,524.7673205,0
+22,English,['Education Insurance'],66,5,English,48,Car Insurance,27.37118119,7,3,2,0,454.9779172,0
+32,Urdu,"['Car Insurance', 'Education Insurance']",75,4,Urdu,16,Health Insurance,28.13657376,6,2,2,0,363.8371533,0
+27,Telgu,['Home Insurance'],22,1,Telgu,44,Car Insurance,36.30954649,14,9,7,1,515.3183031,1
+23,Urdu,['Home Insurance'],45,2,Urdu,14,Car Insurance,17.31087456,3,1,1,2,460.3462057,0
+47,Hindi,"['Life Insurance', 'Health Insurance', 'Car Insurance']",33,2,Hindi,26,Car Insurance,25.90330084,7,3,3,1,232.6232473,0
+44,Telgu,"['Education Insurance', 'Car Insurance', 'Life Insurance']",91,4,Telgu,37,Life Insurance,20.30960545,9,2,2,0,467.2543416,0
+35,English,"['Life Insurance', 'Health Insurance']",31,1,English,8,Education Insurance,17.56588814,2,1,1,1,481.026105,0
+44,Telgu,"['Life Insurance', 'Health Insurance', 'Education Insurance']",74,3,Telgu,23,Health Insurance,18.12045373,1,0,0,0,619.9779197,0
+38,English,"['Home Insurance', 'Education Insurance']",52,4,English,9,Car Insurance,22.05262917,9,2,3,0,478.4180081,0
+20,Hindi,['Life Insurance'],49,3,Hindi,2,Health Insurance,30.67862987,16,6,9,1,494.2861482,1
+28,English,['Home Insurance'],28,1,English,34,Health Insurance,21.35032479,5,4,2,1,435.477093,0
+28,Telgu,['Home Insurance'],41,3,Telgu,6,Education Insurance,23.1776131,7,3,4,1,459.1728801,1
+48,Telgu,"['Health Insurance', 'Life Insurance', 'Home Insurance']",95,1,Telgu,30,Home Insurance,14.64876423,1,1,0,0,699.1235881,0
+25,Hindi,['Home Insurance'],51,3,Hindi,3,Home Insurance,26.12865849,6,3,4,0,416.511944,1
+35,Urdu,"['Car Insurance', 'Home Insurance']",42,3,Urdu,41,Home Insurance,17.15811317,3,0,1,3,278.015902,0
+43,English,"['Life Insurance', 'Home Insurance', 'Car Insurance']",85,5,English,4,Health Insurance,23.86963062,8,4,4,0,487.9266855,1
+31,Marathi,"['Life Insurance', 'Home Insurance']",61,2,Marathi,46,Life Insurance,27.20037667,5,4,3,2,249.3124284,0
+44,English,"['Car Insurance', 'Life Insurance', 'Health Insurance']",65,5,English,6,Education Insurance,20.32692303,5,2,3,0,484.8701053,0
+39,Telgu,"['Life Insurance', 'Health Insurance']",59,3,Telgu,33,Home Insurance,18.58369036,0,1,1,2,475.1100629,0
+28,Urdu,['Health Insurance'],27,1,Urdu,16,Car Insurance,25.3512832,5,2,4,3,276.5560113,0
+22,Telgu,['Health Insurance'],70,2,Telgu,48,Home Insurance,19.73460195,1,1,0,3,452.2925367,0
+39,Urdu,"['Health Insurance', 'Car Insurance']",66,2,Urdu,6,Car Insurance,36.53795857,16,6,9,4,330.3451563,0
+36,Marathi,"['Education Insurance', 'Life Insurance']",54,4,Marathi,24,Education Insurance,25.91303708,5,4,3,2,386.0006071,0
+25,Marathi,['Education Insurance'],77,2,Marathi,40,Education Insurance,25.3259859,8,3,2,0,389.0992609,0
+47,English,"['Car Insurance', 'Education Insurance', 'Life Insurance']",83,7,English,6,Education Insurance,29.08617843,7,4,3,3,607.8586719,0
+22,English,['Car Insurance'],62,4,English,3,Life Insurance,24.18879609,8,4,4,0,619.8782668,1
+33,Urdu,"['Car Insurance', 'Education Insurance']",42,2,Urdu,9,Home Insurance,28.32623253,8,2,2,0,557.4002445,0
+39,Hindi,"['Home Insurance', 'Health Insurance']",38,1,Hindi,25,Life Insurance,25.57154803,5,3,4,2,567.9940166,1
+21,Telgu,['Education Insurance'],55,3,Telgu,0,Car Insurance,31.45367531,15,9,9,3,459.1775569,0
+28,Hindi,['Car Insurance'],22,1,Hindi,4,Home Insurance,34.04695119,14,8,6,4,234.0386207,0
+38,English,"['Life Insurance', 'Health Insurance']",42,3,English,3,Home Insurance,18.1954693,3,1,0,4,602.0439432,0
+21,Telgu,['Home Insurance'],39,1,Telgu,13,Life Insurance,21.43407885,9,2,2,1,404.8267345,0
+35,Urdu,"['Life Insurance', 'Health Insurance']",40,2,Urdu,26,Life Insurance,29.25223261,9,4,2,0,310.2517538,0
+49,Marathi,"['Health Insurance', 'Education Insurance', 'Life Insurance']",44,3,Marathi,7,Car Insurance,24.72176909,7,3,2,0,616.9356509,0
+29,Hindi,['Car Insurance'],69,4,Hindi,14,Home Insurance,19.88770262,1,0,0,0,372.7039105,0
+35,Telgu,"['Home Insurance', 'Health Insurance']",58,2,Telgu,12,Health Insurance,20.53733969,7,2,4,2,526.9912802,1
+34,Telgu,"['Car Insurance', 'Home Insurance']",47,1,Telgu,44,Education Insurance,29.88350557,5,4,3,3,404.7117089,0
+48,Marathi,"['Car Insurance', 'Education Insurance', 'Life Insurance']",68,2,Marathi,13,Car Insurance,23.95571647,6,2,4,4,605.733623,0
+33,Telgu,"['Health Insurance', 'Education Insurance']",73,3,Telgu,38,Education Insurance,32.12534454,14,8,5,0,322.5876249,1
+24,Hindi,['Education Insurance'],50,1,Hindi,18,Education Insurance,26.7204684,5,3,3,3,556.8087528,0
+43,Marathi,"['Health Insurance', 'Car Insurance', 'Life Insurance']",83,2,Marathi,28,Education Insurance,27.85150008,5,4,2,2,526.7115514,0
+38,English,"['Education Insurance', 'Life Insurance']",75,5,English,32,Home Insurance,26.45974005,7,3,2,1,557.546506,0
+42,Telgu,"['Life Insurance', 'Home Insurance', 'Education Insurance']",48,1,Telgu,46,Health Insurance,29.40411598,6,2,3,0,457.5307809,0
+39,Hindi,"['Life Insurance', 'Home Insurance']",69,3,Hindi,43,Health Insurance,18.52316849,2,1,0,1,529.9954436,0
+39,Telgu,"['Life Insurance', 'Home Insurance']",67,4,Telgu,15,Education Insurance,20.98486688,7,3,2,1,558.603907,0
+29,Telgu,['Health Insurance'],37,2,Telgu,7,Health Insurance,24.99271225,5,4,2,2,616.7657498,0
+44,Telgu,"['Health Insurance', 'Education Insurance', 'Life Insurance']",89,4,Telgu,23,Life Insurance,25.45226009,9,4,4,3,438.1253528,0
+20,Marathi,['Life Insurance'],71,6,Marathi,23,Life Insurance,22.28889889,9,2,2,0,513.5904004,0
+46,English,"['Life Insurance', 'Home Insurance', 'Health Insurance']",66,5,English,21,Education Insurance,26.52441782,8,3,4,1,339.8983802,1
+22,Telgu,['Home Insurance'],77,2,Telgu,47,Health Insurance,16.25597876,0,0,1,0,318.4257557,0
+27,English,['Car Insurance'],96,4,English,4,Home Insurance,28.63630815,9,3,3,0,313.9804629,0
+26,Hindi,['Health Insurance'],51,3,Hindi,36,Car Insurance,22.90658684,6,3,2,3,373.7109307,0
+21,Marathi,['Health Insurance'],56,2,Marathi,40,Education Insurance,22.77715509,8,4,4,0,544.2293205,1
+37,English,"['Education Insurance', 'Home Insurance']",39,2,English,34,Education Insurance,33.96107544,16,8,6,1,389.6850005,1
+29,Marathi,['Health Insurance'],67,4,Marathi,21,Car Insurance,30.36966099,17,7,9,0,297.8632565,1
+33,Marathi,"['Life Insurance', 'Health Insurance']",28,1,Marathi,33,Car Insurance,30.8436966,16,6,7,3,330.7986253,0
+40,Hindi,"['Education Insurance', 'Home Insurance', 'Health Insurance']",36,2,Hindi,42,Life Insurance,20.19455916,7,3,3,4,415.1284035,0
+43,Hindi,"['Life Insurance', 'Education Insurance', 'Health Insurance']",98,4,Hindi,44,Life Insurance,24.47045407,9,2,4,0,548.1537283,1
+47,Urdu,"['Home Insurance', 'Health Insurance', 'Car Insurance']",74,6,Urdu,29,Education Insurance,25.78258533,6,3,2,0,615.1037334,0
+24,English,['Life Insurance'],60,5,English,5,Health Insurance,25.68618715,9,3,2,1,412.7601541,0
+40,Marathi,"['Home Insurance', 'Car Insurance', 'Education Insurance']",55,4,Marathi,6,Health Insurance,11.50499043,2,0,1,0,517.6364004,0
+41,Hindi,"['Life Insurance', 'Home Insurance', 'Education Insurance']",93,3,Hindi,15,Life Insurance,22.89395563,5,4,3,1,449.4567504,0
+34,Hindi,"['Health Insurance', 'Car Insurance']",92,1,Hindi,17,Health Insurance,24.97961492,8,4,3,3,334.8703036,0
+37,Urdu,"['Car Insurance', 'Education Insurance']",52,3,Urdu,42,Health Insurance,32.79071315,10,9,7,1,286.1521533,1
+25,Marathi,['Home Insurance'],96,6,Marathi,34,Health Insurance,19.78137364,3,1,0,0,472.5938197,0
+36,Urdu,"['Health Insurance', 'Life Insurance']",69,1,Urdu,6,Health Insurance,14.94816685,2,0,1,0,412.4538624,0
+29,Telgu,['Education Insurance'],32,1,Telgu,46,Car Insurance,19.99782386,4,0,1,1,510.7004299,0
+38,English,"['Education Insurance', 'Health Insurance']",92,6,English,7,Home Insurance,32.01373754,10,5,5,4,495.4171958,0
+41,Marathi,"['Car Insurance', 'Home Insurance', 'Health Insurance']",48,2,Marathi,26,Life Insurance,26.66442122,9,4,3,3,437.7719307,0
+42,Hindi,"['Education Insurance', 'Life Insurance', 'Car Insurance']",32,1,Hindi,28,Life Insurance,23.9246326,9,4,4,0,285.7749569,1
+37,English,"['Education Insurance', 'Health Insurance']",77,3,English,1,Education Insurance,25.36831301,8,3,4,0,496.3297399,1
+35,Marathi,"['Health Insurance', 'Education Insurance']",36,2,Marathi,37,Education Insurance,22.29933209,8,4,3,1,361.319659,0
+46,Urdu,"['Education Insurance', 'Life Insurance', 'Car Insurance']",75,6,Urdu,2,Car Insurance,37.96949359,19,5,8,1,365.5065214,1
+21,Telgu,['Car Insurance'],61,1,Telgu,22,Home Insurance,29.57110173,8,4,4,1,520.0999265,1
+32,Telgu,"['Health Insurance', 'Car Insurance']",21,1,Telgu,31,Life Insurance,28.99333885,6,3,2,0,496.3892203,0
+46,English,"['Life Insurance', 'Health Insurance', 'Home Insurance']",49,2,English,18,Education Insurance,18.64927592,3,0,0,2,474.0054069,0
+22,Hindi,['Life Insurance'],87,5,Hindi,37,Health Insurance,22.06172242,8,2,3,0,572.7381685,0
+48,Urdu,"['Life Insurance', 'Education Insurance', 'Car Insurance']",66,5,Urdu,34,Car Insurance,18.46494815,0,1,1,0,331.1902472,0
+28,Telgu,['Health Insurance'],58,2,Telgu,40,Car Insurance,30.26767885,14,8,9,0,325.3191561,1
+21,Marathi,['Home Insurance'],46,1,Marathi,12,Car Insurance,28.30357524,9,3,2,0,460.5888072,0
+41,English,"['Car Insurance', 'Life Insurance', 'Education Insurance']",30,1,English,15,Health Insurance,22.79667321,7,2,2,2,419.178801,0
+42,Urdu,"['Car Insurance', 'Health Insurance', 'Life Insurance']",57,3,Urdu,37,Life Insurance,24.35667337,5,4,2,0,296.7866683,0
+20,Urdu,['Education Insurance'],27,1,Urdu,27,Health Insurance,31.03100312,16,9,6,3,563.2563048,0
+20,English,['Health Insurance'],29,1,English,16,Home Insurance,26.23867492,6,2,3,0,379.3060836,0
+23,Hindi,['Car Insurance'],55,4,Hindi,40,Car Insurance,22.4934529,7,3,2,0,376.1871695,0
+28,Marathi,['Education Insurance'],61,3,Marathi,31,Education Insurance,27.99687593,6,4,4,2,337.5572927,1
+22,English,['Car Insurance'],66,2,English,22,Life Insurance,24.09082153,8,4,2,0,342.7185003,0
+38,Marathi,"['Health Insurance', 'Education Insurance']",67,3,Marathi,26,Life Insurance,25.18427955,6,4,3,3,419.1396412,0
+37,Marathi,"['Health Insurance', 'Education Insurance']",90,7,Marathi,22,Life Insurance,29.24442375,6,4,3,2,508.5913716,0
+28,English,['Health Insurance'],87,7,English,13,Home Insurance,19.37845449,2,1,1,2,385.0695236,0
+24,Urdu,['Life Insurance'],91,5,Urdu,34,Life Insurance,29.25217611,9,2,3,0,414.9469552,0
+28,Telgu,['Home Insurance'],79,6,Telgu,44,Home Insurance,24.38262395,8,2,3,2,360.4995589,0
+22,Telgu,['Car Insurance'],29,1,Telgu,17,Education Insurance,15.56223741,0,0,1,0,453.9212739,0
+21,Urdu,['Health Insurance'],58,4,Urdu,35,Home Insurance,23.6751967,9,2,3,2,524.7164804,0
+41,Telgu,"['Life Insurance', 'Home Insurance', 'Car Insurance']",65,4,Telgu,17,Life Insurance,23.97039182,6,2,4,0,479.2327659,1
+44,Telgu,"['Home Insurance', 'Car Insurance', 'Life Insurance']",93,8,Telgu,28,Health Insurance,30.98425348,14,5,9,0,484.9473886,1
+44,Urdu,"['Life Insurance', 'Education Insurance', 'Car Insurance']",30,1,Urdu,3,Car Insurance,26.23481877,9,4,4,0,501.4796246,1
+31,Marathi,"['Car Insurance', 'Home Insurance']",46,2,Marathi,28,Education Insurance,27.6964685,5,4,4,3,413.0403032,0
+28,English,['Home Insurance'],22,1,English,9,Car Insurance,17.97395702,3,1,1,3,400.1602462,0
+35,Marathi,"['Car Insurance', 'Life Insurance']",47,1,Marathi,19,Health Insurance,22.40177761,8,4,3,3,401.1791759,0
+28,Marathi,['Car Insurance'],81,4,Marathi,27,Health Insurance,25.13402603,8,2,2,3,640.9854948,0
+24,Telgu,['Home Insurance'],71,6,Telgu,26,Education Insurance,30.98931415,19,6,7,3,502.2724444,0
+28,Telgu,['Life Insurance'],42,1,Telgu,15,Health Insurance,14.2051013,2,0,1,1,506.0173429,0
+38,English,"['Home Insurance', 'Education Insurance']",78,6,English,17,Car Insurance,30.90784078,16,5,9,0,361.2355926,1
+40,English,"['Life Insurance', 'Car Insurance', 'Home Insurance']",47,2,English,34,Home Insurance,23.39562198,6,3,2,4,388.0491304,0
+47,Urdu,"['Life Insurance', 'Home Insurance', 'Car Insurance']",60,4,Urdu,47,Education Insurance,26.96987442,5,3,4,4,552.4141701,0
+21,Marathi,['Education Insurance'],67,4,Marathi,17,Education Insurance,33.91533453,15,6,5,0,427.0876594,1
+39,Marathi,"['Car Insurance', 'Home Insurance']",81,1,Marathi,2,Car Insurance,18.34864437,3,0,0,0,507.0854526,0
+44,Marathi,"['Car Insurance', 'Health Insurance', 'Education Insurance']",57,2,Marathi,26,Car Insurance,23.79986231,7,4,2,0,316.638937,0
+39,Urdu,"['Home Insurance', 'Education Insurance']",71,2,Urdu,46,Life Insurance,25.9355876,5,3,3,0,459.1769109,0
+46,Telgu,"['Life Insurance', 'Home Insurance', 'Education Insurance']",72,4,Telgu,5,Life Insurance,24.21830492,9,4,2,0,444.2293145,0
+38,Marathi,"['Life Insurance', 'Education Insurance']",59,3,Marathi,36,Education Insurance,24.89701923,5,4,4,0,359.4620711,1
+21,Marathi,['Health Insurance'],39,2,Marathi,38,Health Insurance,22.57690442,9,2,3,0,469.723603,0
+31,Hindi,"['Home Insurance', 'Car Insurance']",91,5,Hindi,28,Health Insurance,16.80747729,4,1,0,1,290.4705318,0
+35,Hindi,"['Life Insurance', 'Home Insurance']",41,3,Hindi,35,Life Insurance,32.97779226,10,7,9,0,567.394458,1
+43,Urdu,"['Car Insurance', 'Home Insurance', 'Education Insurance']",72,1,Urdu,16,Health Insurance,26.9839765,8,4,4,0,523.3132301,1
+44,Urdu,"['Car Insurance', 'Life Insurance', 'Home Insurance']",81,6,Urdu,35,Education Insurance,16.77000079,0,0,0,3,489.1875236,0
+41,Hindi,"['Life Insurance', 'Education Insurance', 'Car Insurance']",40,2,Hindi,16,Education Insurance,24.92634235,7,3,3,0,496.444918,0
+32,Telgu,"['Health Insurance', 'Home Insurance']",89,2,Telgu,15,Life Insurance,30.55839753,14,9,9,0,431.0093677,1
+40,Urdu,"['Home Insurance', 'Car Insurance', 'Life Insurance']",86,3,Urdu,5,Life Insurance,26.03843091,6,2,4,0,475.082515,1
+41,English,"['Education Insurance', 'Health Insurance', 'Life Insurance']",85,1,English,31,Life Insurance,32.5810326,16,8,7,0,445.724939,1
+24,Telgu,['Home Insurance'],98,1,Telgu,11,Health Insurance,22.80835681,6,4,4,2,431.5447386,1
+32,Hindi,"['Health Insurance', 'Life Insurance']",64,2,Hindi,37,Life Insurance,20.50001806,6,2,3,3,494.8084536,0
+22,Hindi,['Education Insurance'],85,5,Hindi,1,Car Insurance,27.20353201,5,4,3,1,539.1966246,0
+33,English,"['Education Insurance', 'Home Insurance']",38,2,English,34,Health Insurance,22.25343609,9,3,4,1,313.3692567,1
+38,Hindi,"['Life Insurance', 'Car Insurance']",71,4,Hindi,9,Education Insurance,16.73597491,0,0,0,0,482.0751324,0
+45,Telgu,"['Car Insurance', 'Education Insurance', 'Home Insurance']",34,1,Telgu,29,Life Insurance,18.21277259,4,0,0,3,412.5012308,0
+28,Urdu,['Health Insurance'],21,1,Urdu,2,Health Insurance,27.83202098,8,2,3,0,470.474147,0
+49,Telgu,"['Education Insurance', 'Home Insurance', 'Life Insurance']",48,2,Telgu,23,Education Insurance,31.49741531,10,5,8,0,389.5823268,1
+39,English,"['Education Insurance', 'Car Insurance']",28,1,English,36,Life Insurance,22.17449956,6,4,2,0,484.2574211,0
+25,Hindi,['Health Insurance'],24,1,Hindi,23,Education Insurance,17.76258073,2,0,0,0,345.5715818,0
+39,Marathi,"['Health Insurance', 'Car Insurance']",99,7,Marathi,31,Education Insurance,28.43357989,9,3,2,0,389.1957282,0
+47,Hindi,"['Car Insurance', 'Education Insurance', 'Home Insurance']",55,4,Hindi,25,Life Insurance,24.84600873,9,2,3,1,546.5458118,0
+25,Telgu,['Health Insurance'],99,5,Telgu,31,Home Insurance,30.47799887,13,5,8,4,460.4930449,0
+24,Telgu,['Life Insurance'],87,2,Telgu,11,Life Insurance,24.91034003,9,3,2,0,491.9597937,0
+41,Marathi,"['Health Insurance', 'Home Insurance', 'Education Insurance']",23,1,Marathi,4,Education Insurance,26.28017089,9,4,4,0,529.9003096,1
+26,Urdu,['Life Insurance'],26,1,Urdu,10,Car Insurance,29.13899997,5,4,2,0,619.8917522,0
+25,Hindi,['Home Insurance'],56,2,Hindi,34,Health Insurance,28.22418578,9,3,2,0,496.9832049,0
+49,Telgu,"['Health Insurance', 'Home Insurance', 'Life Insurance']",33,2,Telgu,5,Health Insurance,24.16340081,5,4,4,0,370.4170665,1
+30,Marathi,"['Life Insurance', 'Car Insurance']",46,1,Marathi,34,Home Insurance,27.18820393,6,3,3,2,532.4232044,0
+49,English,"['Home Insurance', 'Health Insurance', 'Education Insurance']",41,1,English,47,Home Insurance,13.3533115,4,1,1,0,437.9644364,0
+40,Marathi,"['Health Insurance', 'Life Insurance', 'Education Insurance']",59,2,Marathi,34,Education Insurance,23.83304422,6,3,3,1,597.4359128,0
+46,Hindi,"['Car Insurance', 'Life Insurance', 'Health Insurance']",67,5,Hindi,18,Health Insurance,16.91215123,3,0,1,1,441.7865935,0
+48,Hindi,"['Life Insurance', 'Car Insurance', 'Home Insurance']",71,1,Hindi,25,Car Insurance,21.02804572,7,2,4,2,547.8830874,1
+41,English,"['Life Insurance', 'Education Insurance', 'Car Insurance']",83,1,English,39,Health Insurance,24.23213639,8,2,3,1,565.4242711,0
+29,Hindi,['Health Insurance'],27,1,Hindi,32,Car Insurance,25.33005927,5,2,3,0,377.3636073,0
+24,Marathi,['Education Insurance'],85,2,Marathi,32,Home Insurance,32.06788174,13,6,7,1,313.3691189,1
+40,Hindi,"['Car Insurance', 'Health Insurance', 'Education Insurance']",27,1,Hindi,4,Education Insurance,20.54965021,6,4,4,0,366.9046571,1
+32,Hindi,"['Education Insurance', 'Health Insurance']",79,6,Hindi,18,Life Insurance,38.64466025,16,6,9,1,452.3621091,1
+38,English,"['Car Insurance', 'Home Insurance']",45,2,English,17,Life Insurance,21.03792275,6,3,3,2,621.2364948,0
+41,Telgu,"['Life Insurance', 'Education Insurance', 'Health Insurance']",85,3,Telgu,25,Health Insurance,21.62302228,7,4,3,3,440.1333313,0
+49,Hindi,"['Life Insurance', 'Education Insurance', 'Home Insurance']",67,4,Hindi,26,Education Insurance,27.0852665,9,3,3,0,521.7440632,0
+45,Hindi,"['Education Insurance', 'Car Insurance', 'Home Insurance']",90,3,Hindi,3,Home Insurance,25.28080441,9,2,2,0,327.7523013,0
+33,English,"['Education Insurance', 'Life Insurance']",72,1,English,40,Home Insurance,18.72982403,0,0,1,2,358.5206241,0
+43,Hindi,"['Home Insurance', 'Health Insurance', 'Car Insurance']",66,1,Hindi,12,Life Insurance,17.45245698,4,1,1,2,464.8471099,0
+44,Urdu,"['Life Insurance', 'Car Insurance', 'Home Insurance']",85,7,Urdu,45,Life Insurance,28.45412492,7,3,2,3,418.7757296,0
+27,English,['Life Insurance'],62,1,English,46,Home Insurance,27.96596739,6,4,4,2,583.6582608,1
+43,Hindi,"['Health Insurance', 'Car Insurance', 'Life Insurance']",41,3,Hindi,5,Education Insurance,30.51558309,13,5,7,0,296.3818004,1
+40,English,"['Car Insurance', 'Life Insurance', 'Education Insurance']",52,1,English,13,Home Insurance,25.9462257,6,3,2,4,357.8257721,0
+47,Hindi,"['Life Insurance', 'Home Insurance', 'Health Insurance']",45,1,Hindi,13,Education Insurance,25.29005188,9,4,2,0,260.9161647,0
+43,English,"['Life Insurance', 'Education Insurance', 'Home Insurance']",32,2,English,6,Car Insurance,27.63805247,5,3,4,1,543.9155778,1
+37,Urdu,"['Life Insurance', 'Home Insurance']",77,3,Urdu,0,Home Insurance,22.97807667,7,4,3,0,445.6959126,0
+31,Hindi,"['Home Insurance', 'Life Insurance']",98,5,Hindi,37,Education Insurance,25.68054447,6,3,2,3,434.2785436,0
+29,Telgu,['Life Insurance'],94,2,Telgu,9,Life Insurance,38.90427049,13,5,7,1,292.0436903,1
+44,Urdu,"['Car Insurance', 'Home Insurance', 'Health Insurance']",78,3,Urdu,13,Health Insurance,33.83674074,17,8,9,1,434.3108383,1
+40,Marathi,"['Education Insurance', 'Home Insurance', 'Health Insurance']",51,1,Marathi,16,Car Insurance,22.91330445,7,2,2,0,513.3573759,0
+25,Hindi,['Health Insurance'],28,1,Hindi,2,Car Insurance,17.83790108,3,0,0,2,411.4129822,0
+26,Urdu,['Car Insurance'],51,3,Urdu,29,Education Insurance,24.34585375,7,4,3,3,433.2360784,0
+29,Hindi,['Car Insurance'],26,1,Hindi,28,Life Insurance,25.60796905,5,4,3,4,633.5671113,0
+23,Marathi,['Health Insurance'],84,6,Marathi,38,Car Insurance,21.54692027,5,3,3,3,383.0709545,0
+29,Marathi,['Home Insurance'],85,1,Marathi,8,Home Insurance,25.94626322,7,3,2,3,394.4390603,0
+34,Urdu,"['Home Insurance', 'Car Insurance']",63,3,Urdu,39,Home Insurance,33.01655223,17,7,9,4,478.1159527,0
+25,Marathi,['Life Insurance'],80,6,Marathi,21,Health Insurance,34.87676709,16,5,6,1,396.8928819,1
+28,Hindi,['Home Insurance'],26,1,Hindi,5,Life Insurance,28.13555526,7,2,2,3,337.4140053,0
+35,Telgu,"['Health Insurance', 'Home Insurance']",79,6,Telgu,1,Life Insurance,26.00595474,5,4,2,1,519.2179886,0
+40,Hindi,"['Home Insurance', 'Health Insurance', 'Education Insurance']",40,1,Hindi,23,Life Insurance,19.91973959,2,0,0,0,592.6677803,0
+35,Hindi,"['Health Insurance', 'Education Insurance']",77,5,Hindi,37,Home Insurance,21.05774863,7,4,4,2,568.1680356,1
+24,Hindi,['Health Insurance'],33,2,Hindi,1,Education Insurance,20.43563052,9,2,3,3,339.8635688,0
+48,Hindi,"['Car Insurance', 'Home Insurance', 'Education Insurance']",63,2,Hindi,22,Education Insurance,30.17970557,10,5,6,1,470.7721922,1
+24,Urdu,['Health Insurance'],81,7,Urdu,19,Education Insurance,19.28560061,2,1,1,0,622.5618905,0
+31,Marathi,"['Home Insurance', 'Car Insurance']",39,1,Marathi,47,Home Insurance,21.10115715,7,2,3,0,453.7105667,0
+46,Urdu,"['Life Insurance', 'Education Insurance', 'Health Insurance']",87,7,Urdu,2,Home Insurance,17.96064376,3,0,1,1,306.1121118,0
+31,Telgu,"['Education Insurance', 'Home Insurance']",71,6,Telgu,30,Education Insurance,33.53419328,16,5,5,0,540.278364,1
+47,Telgu,"['Life Insurance', 'Health Insurance', 'Home Insurance']",52,3,Telgu,11,Home Insurance,23.86355897,9,4,4,0,366.8858918,1
+37,English,"['Home Insurance', 'Life Insurance']",85,1,English,19,Car Insurance,11.64733309,1,0,0,4,450.1928464,0
+49,Hindi,"['Home Insurance', 'Car Insurance', 'Education Insurance']",31,2,Hindi,17,Life Insurance,25.31925194,9,4,4,0,315.4495771,1
+37,Urdu,"['Home Insurance', 'Education Insurance']",29,1,Urdu,31,Home Insurance,25.75681196,8,4,2,0,651.4482269,0
+41,Telgu,"['Car Insurance', 'Life Insurance', 'Education Insurance']",20,1,Telgu,20,Car Insurance,13.95869047,3,0,1,3,478.7311269,0
+44,Marathi,"['Education Insurance', 'Life Insurance', 'Health Insurance']",54,2,Marathi,8,Home Insurance,33.58776333,12,7,8,0,405.8404678,1
+25,Hindi,['Life Insurance'],71,5,Hindi,45,Education Insurance,16.94372589,2,0,1,0,497.847415,0
+46,English,"['Education Insurance', 'Home Insurance', 'Life Insurance']",42,1,English,17,Home Insurance,24.88854053,5,4,2,1,353.5246027,0
+22,Urdu,['Life Insurance'],94,7,Urdu,45,Health Insurance,12.51275583,0,0,0,2,437.310757,0
+23,Hindi,['Home Insurance'],80,1,Hindi,17,Life Insurance,22.01606104,8,3,2,3,416.3149192,0
+27,Telgu,['Car Insurance'],51,3,Telgu,24,Home Insurance,22.90272437,8,4,3,2,433.6168378,0
+28,Marathi,['Health Insurance'],62,2,Marathi,32,Car Insurance,29.61780268,8,4,3,1,597.7532228,0
+23,Telgu,['Car Insurance'],34,2,Telgu,9,Education Insurance,30.99840555,13,5,8,3,397.8829445,0
+34,Marathi,"['Car Insurance', 'Home Insurance']",51,2,Marathi,21,Car Insurance,18.40932286,2,1,0,0,426.2427059,0
+38,English,"['Education Insurance', 'Health Insurance']",96,6,English,34,Home Insurance,32.04827227,10,8,6,2,545.8191173,1
+22,English,['Home Insurance'],77,5,English,0,Health Insurance,28.91853715,7,2,2,0,449.2804387,0
+37,English,"['Health Insurance', 'Car Insurance']",79,2,English,37,Life Insurance,27.86897895,6,3,2,1,549.2999029,0
+43,English,"['Life Insurance', 'Car Insurance', 'Education Insurance']",71,3,English,24,Life Insurance,26.9536529,5,3,4,0,361.0460648,1
+28,Urdu,['Health Insurance'],95,2,Urdu,40,Life Insurance,26.34872787,5,3,2,0,531.9373556,0
+26,Marathi,['Car Insurance'],20,1,Marathi,38,Life Insurance,21.08697112,9,4,4,1,489.3578818,1
+37,Marathi,"['Health Insurance', 'Car Insurance']",38,1,Marathi,3,Life Insurance,20.58015803,9,3,3,1,426.2255932,0
+28,Hindi,['Home Insurance'],59,1,Hindi,6,Car Insurance,31.09399916,16,5,8,0,447.1803445,1
+39,Urdu,"['Home Insurance', 'Car Insurance']",28,1,Urdu,29,Car Insurance,25.64406047,6,2,2,1,247.7725593,0
+21,Urdu,['Health Insurance'],52,3,Urdu,39,Education Insurance,33.86137149,16,7,9,0,479.7386283,1
+21,Urdu,['Education Insurance'],21,1,Urdu,12,Health Insurance,20.62423803,7,4,2,1,525.3211158,0
+38,Urdu,"['Life Insurance', 'Education Insurance']",58,3,Urdu,19,Car Insurance,26.85748557,6,3,3,0,514.8846148,0
+28,Hindi,['Home Insurance'],70,4,Hindi,4,Car Insurance,19.88084371,2,0,1,0,630.8196747,0
+32,Urdu,"['Car Insurance', 'Health Insurance']",66,1,Urdu,41,Life Insurance,14.66968393,4,1,1,0,455.1390997,0
+37,Marathi,"['Car Insurance', 'Home Insurance']",72,4,Marathi,18,Car Insurance,30.4812174,14,5,6,0,265.7283563,1
+42,Marathi,"['Home Insurance', 'Life Insurance', 'Education Insurance']",41,3,Marathi,29,Health Insurance,28.10641307,8,3,3,0,297.7641032,0
+41,Telgu,"['Home Insurance', 'Health Insurance', 'Life Insurance']",57,3,Telgu,48,Home Insurance,22.36862459,5,4,2,0,512.3606541,0
+27,Hindi,['Car Insurance'],46,2,Hindi,24,Car Insurance,31.59536017,16,7,5,4,252.0893726,0
+43,English,"['Education Insurance', 'Home Insurance', 'Car Insurance']",27,1,English,3,Education Insurance,15.30883198,1,1,1,0,308.9285448,0
+35,English,"['Car Insurance', 'Life Insurance']",74,1,English,12,Life Insurance,27.28626592,6,4,4,1,271.405477,1
+23,Hindi,['Education Insurance'],91,5,Hindi,24,Home Insurance,32.75458723,18,7,5,2,581.420898,1
+40,Urdu,"['Life Insurance', 'Health Insurance', 'Car Insurance']",31,1,Urdu,41,Home Insurance,24.0709149,8,3,3,1,347.5676597,0
+35,Marathi,"['Home Insurance', 'Education Insurance']",40,2,Marathi,17,Car Insurance,23.62119993,8,3,3,0,435.340958,0
+29,Telgu,['Life Insurance'],72,3,Telgu,24,Life Insurance,24.80914591,9,4,3,3,270.3461968,0
+23,English,['Health Insurance'],74,1,English,26,Life Insurance,17.83863049,4,1,1,1,308.9206685,0
+42,English,"['Health Insurance', 'Education Insurance', 'Home Insurance']",52,4,English,47,Health Insurance,22.06852693,8,3,2,1,552.2533781,0
+44,English,"['Home Insurance', 'Health Insurance', 'Car Insurance']",26,1,English,34,Car Insurance,29.91145639,5,2,4,0,465.1525011,1
+40,Telgu,"['Health Insurance', 'Home Insurance', 'Life Insurance']",96,5,Telgu,14,Home Insurance,30.03389141,11,9,7,0,615.1714626,1
+26,Hindi,['Home Insurance'],76,3,Hindi,30,Health Insurance,27.11785195,9,4,3,0,516.2536571,0
+40,Telgu,"['Health Insurance', 'Education Insurance', 'Life Insurance']",86,5,Telgu,47,Home Insurance,24.99924523,7,4,3,0,504.1149066,0
+28,Hindi,['Life Insurance'],82,2,Hindi,42,Car Insurance,24.33838342,7,4,4,4,358.4473733,0
+37,Telgu,"['Education Insurance', 'Car Insurance']",29,1,Telgu,24,Life Insurance,23.30475293,8,3,2,0,320.075065,0
+37,Urdu,"['Home Insurance', 'Education Insurance']",31,2,Urdu,41,Education Insurance,33.62956879,14,5,5,2,406.5968,1
+30,English,"['Health Insurance', 'Education Insurance']",91,5,English,23,Home Insurance,18.033481,2,0,0,0,451.0005237,0
+36,English,"['Life Insurance', 'Education Insurance']",93,6,English,39,Health Insurance,17.67841008,3,0,1,1,283.6194346,0
+47,Marathi,"['Life Insurance', 'Car Insurance', 'Education Insurance']",76,2,Marathi,15,Car Insurance,24.51690666,7,4,3,0,430.7579701,0
+43,Hindi,"['Home Insurance', 'Car Insurance', 'Education Insurance']",99,6,Hindi,26,Education Insurance,22.02398823,8,3,2,1,552.3911119,0
+33,Marathi,"['Life Insurance', 'Car Insurance']",59,3,Marathi,35,Education Insurance,31.9257363,10,6,6,0,359.089282,1
+42,Telgu,"['Home Insurance', 'Car Insurance', 'Education Insurance']",59,2,Telgu,3,Life Insurance,21.99884588,5,3,4,1,515.8787106,1
+27,Urdu,['Health Insurance'],62,5,Urdu,29,Car Insurance,29.76148195,6,3,2,0,371.7589663,0
+26,English,['Home Insurance'],68,5,English,30,Education Insurance,30.28513253,18,5,9,0,292.6798188,1
+25,Marathi,['Health Insurance'],33,2,Marathi,3,Health Insurance,23.27031427,5,3,2,0,380.7692885,0
+30,Hindi,"['Car Insurance', 'Life Insurance']",96,2,Hindi,20,Health Insurance,27.35181792,5,3,2,0,193.8396165,0
+32,Telgu,"['Health Insurance', 'Home Insurance']",92,3,Telgu,11,Life Insurance,28.59011618,6,2,3,0,544.2917885,0
+35,Hindi,"['Home Insurance', 'Car Insurance']",66,4,Hindi,5,Life Insurance,21.78086873,5,3,2,0,619.2306582,0
+32,English,"['Life Insurance', 'Health Insurance']",89,5,English,4,Car Insurance,37.12578867,16,9,9,0,408.6504432,1
+24,Urdu,['Home Insurance'],87,6,Urdu,30,Health Insurance,29.74588237,6,3,4,0,426.0916916,1
+47,Telgu,"['Car Insurance', 'Education Insurance', 'Life Insurance']",75,5,Telgu,26,Life Insurance,23.52559369,8,4,3,0,264.0297169,0
+34,Telgu,"['Home Insurance', 'Health Insurance']",24,1,Telgu,43,Health Insurance,26.527138,6,2,4,2,504.1352568,1
+34,Marathi,"['Car Insurance', 'Education Insurance']",68,2,Marathi,30,Health Insurance,19.60303977,3,1,0,3,450.3424157,0
+23,Marathi,['Home Insurance'],91,4,Marathi,46,Life Insurance,29.10080253,5,3,4,0,331.436977,1
+27,Urdu,['Car Insurance'],83,2,Urdu,35,Home Insurance,29.33234256,8,4,4,1,322.2067229,1
+25,Hindi,['Life Insurance'],80,1,Hindi,30,Life Insurance,19.4878554,3,1,0,0,483.9817161,0
+46,Urdu,"['Car Insurance', 'Education Insurance', 'Home Insurance']",42,3,Urdu,1,Health Insurance,22.87506239,8,2,3,3,577.7859767,0
+28,English,['Education Insurance'],84,2,English,20,Education Insurance,30.26243085,15,5,5,1,553.9767612,1
+21,English,['Health Insurance'],50,1,English,13,Car Insurance,34.23146531,18,7,8,3,449.7012698,0
+40,English,"['Education Insurance', 'Life Insurance', 'Car Insurance']",75,1,English,22,Home Insurance,27.73423638,9,4,3,2,487.2473745,0
+27,Marathi,['Education Insurance'],72,5,Marathi,25,Life Insurance,30.7093846,13,7,7,3,496.464076,0
+24,Marathi,['Life Insurance'],62,5,Marathi,13,Life Insurance,29.7057508,7,2,3,0,322.9612508,0
+20,Telgu,['Education Insurance'],73,4,Telgu,24,Education Insurance,26.82119042,6,3,4,0,194.0525326,1
+22,Urdu,['Car Insurance'],22,1,Urdu,5,Home Insurance,26.64178923,9,4,4,2,540.3354888,1
+48,English,"['Education Insurance', 'Car Insurance', 'Health Insurance']",89,2,English,38,Car Insurance,24.22018444,8,4,2,2,342.6240181,0
+41,Telgu,"['Education Insurance', 'Car Insurance', 'Home Insurance']",98,3,Telgu,2,Home Insurance,34.7001169,19,9,6,0,397.8191664,1
+25,Hindi,['Car Insurance'],46,1,Hindi,42,Car Insurance,27.86642757,7,3,3,0,512.7622402,0
+37,Urdu,"['Home Insurance', 'Health Insurance']",51,4,Urdu,14,Life Insurance,33.82386113,15,9,8,1,330.4196877,1
+48,Marathi,"['Life Insurance', 'Car Insurance', 'Education Insurance']",55,1,Marathi,28,Car Insurance,27.12575653,5,3,3,0,603.4202967,0
+26,Marathi,['Education Insurance'],81,6,Marathi,29,Education Insurance,29.40374645,9,4,3,2,536.3816253,0
+21,Marathi,['Life Insurance'],21,1,Marathi,1,Health Insurance,35.33229946,10,8,7,0,423.7888635,1
+34,Marathi,"['Life Insurance', 'Education Insurance']",89,5,Marathi,36,Health Insurance,29.48217758,9,2,3,0,403.5526661,0
+29,Marathi,['Education Insurance'],28,1,Marathi,47,Health Insurance,23.5314874,9,4,4,2,493.3979382,1
+41,Urdu,"['Education Insurance', 'Life Insurance', 'Car Insurance']",26,1,Urdu,18,Education Insurance,27.11903264,7,4,3,2,659.9296283,0
+33,Hindi,"['Home Insurance', 'Health Insurance']",95,7,Hindi,45,Education Insurance,28.88973724,6,4,2,1,343.7539115,0
+43,Urdu,"['Home Insurance', 'Life Insurance', 'Car Insurance']",25,1,Urdu,0,Life Insurance,26.8028346,5,2,4,4,623.6482838,0
+25,Hindi,['Home Insurance'],74,2,Hindi,0,Education Insurance,25.94554518,5,4,2,0,382.8836354,0
+26,Telgu,['Life Insurance'],63,1,Telgu,36,Education Insurance,26.7376442,5,3,3,3,455.7370115,0
+49,Marathi,"['Car Insurance', 'Health Insurance', 'Education Insurance']",30,1,Marathi,14,Car Insurance,30.86616543,15,8,9,3,408.3981591,0
+24,Telgu,['Home Insurance'],45,1,Telgu,24,Life Insurance,27.20368116,8,4,2,0,659.5549812,0
+34,Telgu,"['Health Insurance', 'Life Insurance']",48,1,Telgu,33,Home Insurance,25.40924415,9,4,3,1,488.9082706,0
+46,Urdu,"['Life Insurance', 'Home Insurance', 'Education Insurance']",71,5,Urdu,9,Life Insurance,24.76243785,8,2,4,0,560.1701486,1
+32,Telgu,"['Car Insurance', 'Life Insurance']",64,3,Telgu,23,Car Insurance,27.74322238,8,4,4,1,381.40559,1
+49,Telgu,"['Home Insurance', 'Life Insurance', 'Car Insurance']",80,3,Telgu,18,Education Insurance,22.05913382,7,3,4,0,379.2467149,1
+46,Marathi,"['Life Insurance', 'Car Insurance', 'Health Insurance']",76,3,Marathi,22,Car Insurance,27.86564522,6,2,4,0,490.8718407,1
+20,English,['Home Insurance'],82,6,English,23,Life Insurance,20.47789051,9,2,2,0,436.1712077,0
+21,English,['Home Insurance'],54,2,English,43,Car Insurance,33.95407856,10,6,8,0,575.1159093,1
+31,Marathi,"['Life Insurance', 'Education Insurance']",20,1,Marathi,12,Health Insurance,20.8266538,9,3,4,2,495.2566588,1
+36,Telgu,"['Health Insurance', 'Home Insurance']",48,2,Telgu,19,Education Insurance,30.88541267,10,6,7,1,365.6105006,1
+24,Hindi,['Health Insurance'],91,7,Hindi,40,Car Insurance,30.26325499,12,8,6,0,470.2543103,1
+34,Marathi,"['Home Insurance', 'Car Insurance']",29,1,Marathi,45,Health Insurance,21.72126684,5,2,4,0,319.9882075,1
+23,Urdu,['Education Insurance'],50,1,Urdu,3,Health Insurance,21.53577947,8,3,3,1,514.0440003,0
+25,Marathi,['Life Insurance'],92,3,Marathi,33,Car Insurance,26.19701856,5,2,3,2,494.7482139,0
+20,Urdu,['Car Insurance'],31,1,Urdu,44,Car Insurance,23.78959016,6,3,4,0,522.9484975,1
+31,Telgu,"['Health Insurance', 'Life Insurance']",54,2,Telgu,4,Home Insurance,20.98615229,6,2,2,1,504.0962207,0
+26,Hindi,['Home Insurance'],68,1,Hindi,0,Health Insurance,29.87133663,8,4,4,0,490.7284752,1
+42,Marathi,"['Education Insurance', 'Life Insurance', 'Health Insurance']",81,5,Marathi,17,Car Insurance,27.85182731,7,3,3,4,374.319465,0
+24,Telgu,['Life Insurance'],85,3,Telgu,16,Education Insurance,19.697062,1,1,0,0,495.6797046,0
+22,Hindi,['Home Insurance'],42,2,Hindi,8,Life Insurance,22.71164771,8,2,3,0,339.874416,0
+20,Urdu,['Home Insurance'],53,2,Urdu,19,Life Insurance,26.17231821,5,2,3,2,332.6529109,0
+35,Urdu,"['Car Insurance', 'Life Insurance']",88,1,Urdu,5,Education Insurance,27.70680665,5,3,2,2,348.9799746,0
+22,Telgu,['Health Insurance'],62,1,Telgu,10,Home Insurance,24.93199942,5,3,2,2,464.9966186,0
+46,Telgu,"['Life Insurance', 'Health Insurance', 'Education Insurance']",90,4,Telgu,27,Life Insurance,22.59834361,8,3,4,0,405.1604514,1
+28,Marathi,['Home Insurance'],47,2,Marathi,38,Education Insurance,19.25452418,1,1,1,0,421.6607339,0
+32,Urdu,"['Health Insurance', 'Home Insurance']",95,5,Urdu,1,Life Insurance,24.92115777,7,4,3,0,425.3257149,0
+27,Hindi,['Home Insurance'],48,3,Hindi,42,Car Insurance,26.26834462,6,4,4,0,629.9120354,1
+27,Urdu,['Health Insurance'],41,2,Urdu,39,Home Insurance,22.99662575,7,2,4,0,392.2951514,1
+31,Marathi,"['Health Insurance', 'Car Insurance']",32,2,Marathi,8,Home Insurance,33.4333033,15,6,7,4,421.0192811,0
+46,Telgu,"['Health Insurance', 'Home Insurance', 'Education Insurance']",38,1,Telgu,16,Education Insurance,29.11891655,8,2,2,0,260.4431092,0
+22,Marathi,['Health Insurance'],35,2,Marathi,17,Health Insurance,27.7310371,7,3,3,0,360.9385111,0
+20,Marathi,['Health Insurance'],29,1,Marathi,17,Car Insurance,29.93874145,7,3,3,0,402.9656734,0
+30,Telgu,"['Education Insurance', 'Car Insurance']",73,5,Telgu,6,Education Insurance,19.63520286,2,1,0,1,374.3153066,0
+25,Urdu,['Home Insurance'],62,2,Urdu,2,Education Insurance,21.77364636,8,2,3,0,542.6116745,0
+49,Telgu,"['Car Insurance', 'Life Insurance', 'Health Insurance']",90,4,Telgu,15,Life Insurance,17.90142018,3,0,1,2,555.737869,0
+43,Hindi,"['Car Insurance', 'Health Insurance', 'Education Insurance']",70,3,Hindi,30,Home Insurance,22.08030822,5,3,2,3,218.1232795,0
+33,Telgu,"['Home Insurance', 'Health Insurance']",36,1,Telgu,10,Education Insurance,25.85337813,9,2,2,1,285.6523473,0
+21,Hindi,['Education Insurance'],72,4,Hindi,39,Home Insurance,28.38679233,8,3,2,0,518.7396095,0
+24,Urdu,['Home Insurance'],79,2,Urdu,25,Health Insurance,25.29281728,9,3,3,2,281.8321913,0
+36,English,"['Education Insurance', 'Home Insurance']",46,2,English,47,Car Insurance,20.91706731,7,2,3,4,389.6546411,0
+37,Hindi,"['Health Insurance', 'Car Insurance']",48,1,Hindi,36,Health Insurance,26.82109976,6,2,3,2,324.685771,0
+27,Hindi,['Health Insurance'],41,3,Hindi,5,Home Insurance,31.68109393,18,8,9,0,327.4240483,1
+27,Urdu,['Health Insurance'],31,1,Urdu,38,Health Insurance,19.13171404,4,1,0,0,385.6083397,0
+44,Telgu,"['Home Insurance', 'Health Insurance', 'Education Insurance']",23,1,Telgu,42,Education Insurance,27.16594742,9,2,3,2,372.1668492,0
+48,English,"['Education Insurance', 'Home Insurance', 'Health Insurance']",30,2,English,31,Car Insurance,30.99169033,19,7,7,0,312.5001983,1
+34,Marathi,"['Education Insurance', 'Home Insurance']",48,3,Marathi,41,Life Insurance,32.63151762,15,8,5,2,454.7537109,1
+21,Hindi,['Car Insurance'],90,3,Hindi,31,Life Insurance,27.25163391,7,3,2,1,252.3347733,0
+20,Telgu,['Health Insurance'],37,1,Telgu,42,Life Insurance,19.52463958,2,1,0,2,506.1114277,0
+28,Marathi,['Car Insurance'],40,1,Marathi,17,Life Insurance,22.8654312,8,3,3,0,595.3437815,0
+42,Urdu,"['Education Insurance', 'Car Insurance', 'Health Insurance']",99,2,Urdu,26,Health Insurance,28.88942255,6,4,2,1,362.3762,0
+28,English,['Education Insurance'],54,2,English,23,Home Insurance,22.29006953,6,3,4,1,372.0584156,1
+35,English,"['Health Insurance', 'Car Insurance']",43,3,English,23,Car Insurance,19.15431564,0,0,1,4,540.6256911,0
+39,English,"['Health Insurance', 'Home Insurance']",59,1,English,18,Car Insurance,26.36656845,6,2,2,1,499.2652171,0
+36,English,"['Life Insurance', 'Car Insurance']",86,1,English,7,Life Insurance,23.26148781,7,3,2,1,459.8793232,0
+30,Urdu,"['Health Insurance', 'Car Insurance']",57,2,Urdu,37,Education Insurance,25.00473624,9,2,3,0,394.5684126,0
+48,Urdu,"['Car Insurance', 'Home Insurance', 'Life Insurance']",76,1,Urdu,11,Life Insurance,31.16916382,19,7,8,0,427.7673385,1
+27,Marathi,['Life Insurance'],48,1,Marathi,18,Car Insurance,21.71589657,8,2,2,2,464.5140818,0
+24,Hindi,['Education Insurance'],51,4,Hindi,35,Life Insurance,27.25453184,5,4,2,2,533.593474,0
+31,Telgu,"['Home Insurance', 'Life Insurance']",78,6,Telgu,3,Car Insurance,22.0125228,5,2,2,0,245.6254887,0
+42,Urdu,"['Health Insurance', 'Life Insurance', 'Home Insurance']",45,3,Urdu,7,Car Insurance,22.71389034,5,4,4,0,611.5667617,1
+29,Urdu,['Health Insurance'],26,1,Urdu,15,Car Insurance,27.0454272,6,4,2,1,427.3250775,0
+24,Hindi,['Education Insurance'],90,8,Hindi,9,Health Insurance,21.95795133,6,2,2,1,551.7284555,0
+27,Telgu,['Health Insurance'],98,5,Telgu,43,Home Insurance,21.52398064,7,4,2,0,392.152999,0
+37,Marathi,"['Health Insurance', 'Car Insurance']",82,7,Marathi,1,Life Insurance,29.53275031,7,3,4,1,360.7116919,1
+26,Urdu,['Life Insurance'],39,2,Urdu,38,Health Insurance,24.29691073,9,3,2,3,564.9941926,0
+29,Hindi,['Home Insurance'],54,3,Hindi,10,Health Insurance,21.70718513,7,2,2,1,459.2905982,0
+43,Hindi,"['Home Insurance', 'Life Insurance', 'Car Insurance']",48,1,Hindi,36,Education Insurance,32.71922345,12,5,6,0,538.9491676,1
+40,Hindi,"['Education Insurance', 'Health Insurance', 'Life Insurance']",37,2,Hindi,10,Home Insurance,27.00782911,8,3,3,2,553.6645263,0
+27,Urdu,['Education Insurance'],97,4,Urdu,39,Education Insurance,21.56142321,5,3,3,1,358.2926429,0
+24,Marathi,['Life Insurance'],51,4,Marathi,37,Health Insurance,24.90481974,6,2,2,2,472.5732549,0
+36,Urdu,"['Education Insurance', 'Health Insurance']",83,7,Urdu,47,Life Insurance,28.35920374,8,4,3,1,322.2831755,0
+23,Urdu,['Car Insurance'],82,3,Urdu,0,Education Insurance,33.4692833,16,6,6,0,457.030024,1
+42,English,"['Car Insurance', 'Home Insurance', 'Education Insurance']",78,5,English,47,Car Insurance,20.64000586,9,3,3,0,566.6217048,0
+36,English,"['Life Insurance', 'Home Insurance']",49,3,English,17,Life Insurance,22.34457096,9,2,2,4,581.3939459,0
+29,Telgu,['Health Insurance'],32,1,Telgu,30,Health Insurance,27.41006318,7,3,4,2,440.2255211,1
+43,Telgu,"['Car Insurance', 'Life Insurance', 'Education Insurance']",96,6,Telgu,18,Car Insurance,16.50673905,4,0,1,4,459.0567854,0
+23,Marathi,['Education Insurance'],49,3,Marathi,33,Home Insurance,27.32041588,5,2,2,0,631.9038175,0
+35,Urdu,"['Home Insurance', 'Life Insurance']",33,2,Urdu,20,Education Insurance,33.50683066,13,5,9,4,443.7278254,0
+30,Urdu,"['Home Insurance', 'Health Insurance']",47,2,Urdu,16,Life Insurance,17.93999111,0,0,1,3,497.5973178,0
+26,English,['Car Insurance'],70,5,English,48,Health Insurance,30.49137788,12,8,5,0,524.2896652,1
+24,Telgu,['Education Insurance'],92,8,Telgu,4,Car Insurance,27.13357814,5,4,3,0,375.1285407,0
+33,Urdu,"['Education Insurance', 'Health Insurance']",82,3,Urdu,18,Health Insurance,35.2671417,19,7,6,4,484.6355733,0
+29,English,['Home Insurance'],90,4,English,40,Home Insurance,26.24811563,5,2,2,0,438.4943765,0
+45,Telgu,"['Life Insurance', 'Home Insurance', 'Car Insurance']",68,3,Telgu,24,Life Insurance,18.9354497,4,1,0,1,486.0756886,0
+34,Telgu,"['Home Insurance', 'Health Insurance']",47,3,Telgu,39,Home Insurance,29.49569036,6,3,2,1,363.3084437,0
+21,Telgu,['Health Insurance'],20,1,Telgu,5,Education Insurance,29.03880304,8,2,4,0,459.8544023,1
+35,Urdu,"['Home Insurance', 'Car Insurance']",91,7,Urdu,14,Education Insurance,24.65865359,8,3,4,0,527.1428962,1
+41,Marathi,"['Home Insurance', 'Car Insurance', 'Education Insurance']",94,7,Marathi,18,Education Insurance,18.25834438,4,1,0,0,462.2215415,0
+35,Marathi,"['Life Insurance', 'Education Insurance']",91,1,Marathi,39,Home Insurance,23.15000473,6,4,4,1,274.8266434,1
+28,Telgu,['Home Insurance'],41,3,Telgu,42,Life Insurance,31.21345473,19,5,9,0,674.9071324,1
+26,Marathi,['Home Insurance'],57,2,Marathi,2,Education Insurance,19.17074212,4,1,1,2,438.7795707,0
+23,Marathi,['Car Insurance'],26,1,Marathi,31,Life Insurance,33.59738924,18,7,6,2,479.5364164,1
+21,Telgu,['Car Insurance'],43,1,Telgu,41,Health Insurance,23.23114522,7,3,4,2,316.8281092,1
+44,Marathi,"['Education Insurance', 'Life Insurance', 'Home Insurance']",20,1,Marathi,44,Life Insurance,24.90275132,5,4,2,2,519.4770554,0
+44,Telgu,"['Health Insurance', 'Home Insurance', 'Life Insurance']",63,3,Telgu,19,Health Insurance,18.4795236,4,1,1,0,513.5656028,0
+24,Hindi,['Life Insurance'],47,3,Hindi,2,Education Insurance,25.70263001,7,2,3,0,507.6337617,0
+46,Telgu,"['Education Insurance', 'Life Insurance', 'Home Insurance']",33,1,Telgu,28,Home Insurance,28.35652509,7,3,2,4,364.4492523,0
+36,Marathi,"['Home Insurance', 'Life Insurance']",67,2,Marathi,13,Car Insurance,20.55486063,6,4,4,0,501.0258555,1
+35,Urdu,"['Education Insurance', 'Car Insurance']",48,2,Urdu,7,Life Insurance,17.49145356,0,1,1,1,422.8634707,0
+32,Telgu,"['Education Insurance', 'Home Insurance']",28,1,Telgu,1,Health Insurance,26.2207121,6,4,4,1,553.7905397,1
+46,Hindi,"['Education Insurance', 'Health Insurance', 'Home Insurance']",99,4,Hindi,17,Home Insurance,24.81853788,7,4,4,0,389.8404765,1
+49,English,"['Education Insurance', 'Life Insurance', 'Car Insurance']",82,4,English,38,Education Insurance,25.8996384,8,4,4,1,546.1790701,1
+30,English,"['Education Insurance', 'Life Insurance']",63,5,English,37,Life Insurance,23.72066715,6,2,3,2,399.555537,0
+48,Hindi,"['Life Insurance', 'Education Insurance', 'Home Insurance']",82,6,Hindi,17,Health Insurance,24.93352307,8,4,2,2,314.3078843,0
+29,Hindi,['Health Insurance'],25,1,Hindi,27,Life Insurance,31.69402747,10,6,5,2,259.2050899,1
+32,Telgu,"['Health Insurance', 'Home Insurance']",60,1,Telgu,24,Car Insurance,24.90210013,5,3,2,0,258.3435171,0
+23,Urdu,['Car Insurance'],83,3,Urdu,13,Life Insurance,23.55939285,6,3,2,0,565.1603938,0
+34,English,"['Life Insurance', 'Education Insurance']",86,1,English,3,Life Insurance,23.27113267,9,4,3,1,374.9796007,0
+42,Telgu,"['Car Insurance', 'Home Insurance', 'Education Insurance']",30,1,Telgu,11,Education Insurance,29.22974703,9,4,4,1,453.188912,1
+32,Marathi,"['Health Insurance', 'Home Insurance']",65,4,Marathi,12,Life Insurance,18.83000906,3,0,0,1,332.2896317,0
+47,Urdu,"['Life Insurance', 'Car Insurance', 'Home Insurance']",79,3,Urdu,36,Home Insurance,19.58630995,0,1,0,3,402.7120207,0
+39,Telgu,"['Health Insurance', 'Education Insurance']",97,2,Telgu,16,Home Insurance,30.85679325,11,5,9,0,393.453193,1
+49,Urdu,"['Car Insurance', 'Education Insurance', 'Life Insurance']",74,6,Urdu,33,Life Insurance,25.84324222,8,2,4,0,643.1539078,1
+42,Marathi,"['Car Insurance', 'Health Insurance', 'Education Insurance']",64,1,Marathi,22,Car Insurance,34.35390897,12,8,8,2,334.9860903,1
+35,Urdu,"['Home Insurance', 'Car Insurance']",59,3,Urdu,21,Education Insurance,28.40751336,7,4,2,0,475.7692291,0
+25,English,['Health Insurance'],66,2,English,11,Car Insurance,18.68309513,2,1,0,0,309.8238719,0
+45,Hindi,"['Car Insurance', 'Life Insurance', 'Home Insurance']",96,3,Hindi,16,Life Insurance,23.75881268,7,3,2,0,527.8272495,0
+24,Hindi,['Home Insurance'],74,5,Hindi,14,Home Insurance,31.81672438,17,8,9,0,276.6256853,1
+35,Hindi,"['Life Insurance', 'Home Insurance']",48,1,Hindi,28,Car Insurance,33.12343238,19,6,6,1,367.9581859,1
+28,Telgu,['Education Insurance'],31,1,Telgu,23,Home Insurance,26.11818604,8,4,3,2,373.2314729,0
+47,Hindi,"['Life Insurance', 'Car Insurance', 'Education Insurance']",68,2,Hindi,36,Education Insurance,29.04845377,7,3,2,1,464.2729276,0
+27,Telgu,['Car Insurance'],59,2,Telgu,3,Health Insurance,27.72927585,9,2,2,2,532.6159185,0
+34,Marathi,"['Education Insurance', 'Car Insurance']",51,1,Marathi,44,Home Insurance,25.39267441,8,3,2,3,309.2737608,0
+42,Telgu,"['Health Insurance', 'Car Insurance', 'Life Insurance']",93,5,Telgu,46,Home Insurance,16.9977218,3,0,0,0,458.6277802,0
+26,Telgu,['Home Insurance'],90,3,Telgu,5,Education Insurance,16.70513828,0,0,0,1,432.820613,0
+28,Marathi,['Car Insurance'],21,1,Marathi,20,Car Insurance,24.10337107,6,3,4,1,476.6178186,1
+32,Urdu,"['Health Insurance', 'Car Insurance']",36,1,Urdu,8,Car Insurance,25.51997066,9,4,3,2,520.2972446,0
+48,Telgu,"['Life Insurance', 'Education Insurance', 'Home Insurance']",68,3,Telgu,28,Home Insurance,31.05834714,16,6,5,4,384.8745454,0
+20,Hindi,['Home Insurance'],82,1,Hindi,24,Health Insurance,26.75614247,6,2,3,0,370.2271398,0
+42,Telgu,"['Life Insurance', 'Education Insurance', 'Car Insurance']",81,7,Telgu,18,Health Insurance,23.88798487,8,4,2,0,464.9751314,0
+46,Marathi,"['Health Insurance', 'Education Insurance', 'Home Insurance']",77,6,Marathi,32,Home Insurance,21.95553111,6,2,4,3,468.2070929,0
+39,Marathi,"['Health Insurance', 'Home Insurance']",29,1,Marathi,24,Home Insurance,18.18550161,2,1,0,0,528.6682254,0
+42,Urdu,"['Home Insurance', 'Education Insurance', 'Health Insurance']",68,3,Urdu,16,Education Insurance,27.28257402,8,3,2,0,524.2354683,0
+21,Hindi,['Home Insurance'],90,7,Hindi,47,Life Insurance,20.56713785,8,4,3,1,514.5957522,0
+48,Hindi,"['Education Insurance', 'Life Insurance', 'Health Insurance']",51,4,Hindi,0,Education Insurance,17.52026648,0,1,0,0,763.1700673,0
+41,English,"['Education Insurance', 'Health Insurance', 'Car Insurance']",82,2,English,9,Home Insurance,23.59910114,7,3,4,0,490.964177,1
+32,Telgu,"['Car Insurance', 'Life Insurance']",66,1,Telgu,8,Education Insurance,34.03284964,16,8,8,2,409.392332,1
+33,Urdu,"['Home Insurance', 'Health Insurance']",63,5,Urdu,19,Home Insurance,26.06972308,6,3,4,0,257.7939056,1
+27,English,['Home Insurance'],33,2,English,33,Home Insurance,28.57752486,5,4,3,0,383.8100718,0
+39,Hindi,"['Life Insurance', 'Health Insurance']",78,2,Hindi,8,Life Insurance,32.45643618,15,9,8,0,335.3858312,1
+31,Marathi,"['Education Insurance', 'Health Insurance']",90,7,Marathi,2,Education Insurance,19.66576602,4,0,1,0,435.1708142,0
+49,Marathi,"['Health Insurance', 'Home Insurance', 'Car Insurance']",36,1,Marathi,4,Car Insurance,16.50033928,1,1,0,1,419.4612966,0
+48,Telgu,"['Health Insurance', 'Car Insurance', 'Life Insurance']",26,1,Telgu,32,Home Insurance,20.93294585,9,4,2,0,556.991059,0
+37,English,"['Health Insurance', 'Education Insurance']",51,4,English,20,Car Insurance,27.61317922,5,2,3,0,409.022933,0
+38,Marathi,"['Life Insurance', 'Car Insurance']",74,1,Marathi,42,Life Insurance,19.64929928,1,0,1,2,538.5924481,0
+25,Marathi,['Car Insurance'],44,3,Marathi,23,Home Insurance,30.56341777,18,6,6,0,425.8518655,1
+36,English,"['Car Insurance', 'Home Insurance']",26,1,English,46,Car Insurance,30.77171378,12,6,6,0,570.1456709,1
+24,Hindi,['Education Insurance'],50,3,Hindi,20,Health Insurance,29.13673075,7,4,2,2,496.5569995,0
+45,Marathi,"['Education Insurance', 'Home Insurance', 'Life Insurance']",58,2,Marathi,36,Life Insurance,24.01652764,9,3,3,0,468.937251,0
+34,English,"['Health Insurance', 'Education Insurance']",86,2,English,29,Health Insurance,31.74707684,10,9,7,0,659.9262626,1
+38,Marathi,"['Health Insurance', 'Education Insurance']",68,1,Marathi,8,Education Insurance,18.55784784,1,1,0,0,417.8745053,0
+27,Marathi,['Home Insurance'],57,3,Marathi,8,Health Insurance,18.7814112,1,0,0,0,463.840689,0
+27,Telgu,['Life Insurance'],47,2,Telgu,1,Home Insurance,21.06606625,6,2,4,0,500.5009229,1
+27,Urdu,['Education Insurance'],35,1,Urdu,5,Home Insurance,20.7985817,6,2,2,2,464.0024599,0
+23,Hindi,['Life Insurance'],53,3,Hindi,22,Home Insurance,22.11846724,6,3,2,1,297.4645162,0
+23,Urdu,['Health Insurance'],88,7,Urdu,38,Education Insurance,29.78807339,9,4,4,1,376.5470903,1
+48,Urdu,"['Home Insurance', 'Car Insurance', 'Life Insurance']",45,2,Urdu,31,Car Insurance,32.75311772,10,5,6,0,669.0406083,1
+29,English,['Health Insurance'],89,4,English,36,Life Insurance,27.5624076,9,4,3,0,525.6423673,0
+24,English,['Health Insurance'],63,3,English,25,Health Insurance,19.72775634,4,1,1,0,391.4738123,0
+47,Telgu,"['Health Insurance', 'Car Insurance', 'Home Insurance']",48,2,Telgu,46,Car Insurance,30.40659832,14,5,8,0,396.6261609,1
+40,Hindi,"['Health Insurance', 'Life Insurance', 'Home Insurance']",52,1,Hindi,24,Life Insurance,30.74078075,13,8,6,1,616.633901,1
+20,Marathi,['Health Insurance'],73,2,Marathi,30,Health Insurance,23.73041526,9,4,3,3,418.839098,0
+28,Telgu,['Education Insurance'],59,1,Telgu,29,Health Insurance,30.45864944,17,6,6,1,384.5405422,1
+21,Urdu,['Education Insurance'],79,4,Urdu,21,Life Insurance,32.49138134,15,6,9,0,376.3376003,1
+24,Hindi,['Home Insurance'],93,8,Hindi,18,Home Insurance,22.12727997,9,3,4,1,314.1674459,1
+32,Urdu,"['Education Insurance', 'Car Insurance']",47,2,Urdu,43,Home Insurance,29.40877743,8,2,2,2,483.0613823,0
+41,Hindi,"['Life Insurance', 'Home Insurance', 'Car Insurance']",90,6,Hindi,35,Car Insurance,19.46985303,0,1,0,0,458.6746065,0
+37,Marathi,"['Health Insurance', 'Life Insurance']",41,2,Marathi,11,Home Insurance,23.31885906,7,2,3,1,564.5717976,0
+21,Telgu,['Life Insurance'],63,2,Telgu,35,Education Insurance,20.13834603,6,2,2,2,541.0997188,0
+41,Urdu,"['Health Insurance', 'Car Insurance', 'Life Insurance']",73,2,Urdu,42,Life Insurance,20.50145226,8,3,4,0,422.9049326,1
+23,Marathi,['Health Insurance'],83,3,Marathi,20,Car Insurance,22.41025024,5,3,3,0,493.5809623,0
+49,Telgu,"['Education Insurance', 'Home Insurance', 'Life Insurance']",36,2,Telgu,45,Car Insurance,25.28469932,5,2,3,0,458.6810188,0
+44,Telgu,"['Home Insurance', 'Car Insurance', 'Education Insurance']",67,5,Telgu,4,Health Insurance,25.53926113,8,4,3,0,433.8308706,0
+23,Hindi,['Home Insurance'],43,1,Hindi,6,Education Insurance,30.25387524,17,8,5,0,551.2626197,1
+21,Urdu,['Car Insurance'],21,1,Urdu,36,Education Insurance,20.41746679,6,3,2,1,408.7799778,0
+22,Urdu,['Home Insurance'],20,1,Urdu,26,Life Insurance,36.69723693,17,9,5,4,409.7369558,0
+49,English,"['Home Insurance', 'Education Insurance', 'Health Insurance']",63,4,English,9,Car Insurance,27.27859433,7,4,2,1,379.2063252,0
+28,English,['Home Insurance'],37,2,English,15,Car Insurance,20.8586606,9,3,2,0,384.2462243,0
+31,Telgu,"['Car Insurance', 'Education Insurance']",73,4,Telgu,10,Life Insurance,21.37041656,7,4,4,0,642.2397107,1
+36,English,"['Education Insurance', 'Life Insurance']",36,2,English,14,Home Insurance,24.99309485,8,2,3,1,498.2964076,0
+42,Telgu,"['Car Insurance', 'Home Insurance', 'Education Insurance']",92,6,Telgu,18,Life Insurance,28.95684302,5,3,4,2,343.2415883,1
+22,English,['Home Insurance'],56,3,English,1,Education Insurance,23.28499039,5,2,3,1,667.6192536,0
+23,English,['Home Insurance'],95,7,English,30,Home Insurance,21.29796617,6,4,2,0,396.9684516,0
+27,Urdu,['Health Insurance'],47,2,Urdu,17,Life Insurance,19.06201636,1,1,1,2,412.3428407,0
+43,Urdu,"['Education Insurance', 'Home Insurance', 'Health Insurance']",59,3,Urdu,26,Education Insurance,18.17504984,3,0,1,1,487.2357379,0
+35,English,"['Car Insurance', 'Home Insurance']",87,3,English,17,Home Insurance,24.46105967,9,3,3,3,449.0561785,0
+28,Marathi,['Health Insurance'],99,8,Marathi,6,Life Insurance,23.75585025,8,4,2,0,493.2415776,0
+24,Telgu,['Car Insurance'],96,6,Telgu,3,Health Insurance,28.17555787,5,4,4,2,584.6885262,1
+41,Urdu,"['Education Insurance', 'Life Insurance', 'Health Insurance']",88,6,Urdu,25,Home Insurance,16.3170171,4,1,0,0,318.0672503,0
+24,Hindi,['Health Insurance'],88,2,Hindi,28,Life Insurance,20.66257124,7,3,3,0,470.8076749,0
+29,Hindi,['Health Insurance'],64,2,Hindi,11,Car Insurance,16.60770033,3,1,0,0,535.0750069,0
+28,Telgu,['Education Insurance'],93,3,Telgu,14,Car Insurance,19.89819679,0,1,0,0,413.4964613,0
+23,Marathi,['Health Insurance'],92,5,Marathi,38,Home Insurance,28.77692383,7,3,3,0,373.7068999,0
+20,Urdu,['Car Insurance'],46,1,Urdu,18,Health Insurance,17.22684063,1,0,0,0,607.5208485,0
+34,Hindi,"['Education Insurance', 'Home Insurance']",87,7,Hindi,40,Education Insurance,22.02058918,9,2,2,3,414.266905,0
+44,Urdu,"['Education Insurance', 'Car Insurance', 'Life Insurance']",67,5,Urdu,16,Health Insurance,16.0254644,3,0,0,0,372.660299,0
+31,Marathi,"['Life Insurance', 'Education Insurance']",31,1,Marathi,43,Health Insurance,26.55909383,8,4,4,3,466.3300001,0
+32,Hindi,"['Education Insurance', 'Life Insurance']",54,2,Hindi,47,Health Insurance,28.33335321,6,4,4,2,451.4906195,1
+39,Marathi,"['Life Insurance', 'Home Insurance']",55,1,Marathi,6,Life Insurance,29.9444121,9,3,4,2,545.7812802,1
+28,Marathi,['Home Insurance'],69,2,Marathi,15,Car Insurance,18.12408422,0,1,0,3,610.9891237,0
+20,Marathi,['Education Insurance'],43,2,Marathi,24,Car Insurance,21.88299004,6,2,2,0,633.6961894,0
+29,Hindi,['Home Insurance'],48,2,Hindi,47,Home Insurance,26.11250359,6,2,2,0,509.3597298,0
+29,English,['Life Insurance'],52,2,English,17,Education Insurance,29.67554163,7,2,2,2,600.744624,0
+39,Marathi,"['Health Insurance', 'Home Insurance']",29,1,Marathi,8,Life Insurance,24.7570616,6,3,2,0,515.9324166,0
+45,Hindi,"['Education Insurance', 'Life Insurance', 'Car Insurance']",84,2,Hindi,44,Education Insurance,27.29818741,7,3,3,0,525.4524973,0
+36,Marathi,"['Car Insurance', 'Health Insurance']",67,1,Marathi,14,Home Insurance,34.07740093,17,7,7,2,487.4565311,1
+36,Telgu,"['Car Insurance', 'Home Insurance']",79,6,Telgu,46,Home Insurance,32.41050178,14,8,9,0,399.038548,1
+26,Marathi,['Health Insurance'],22,1,Marathi,17,Education Insurance,12.96409904,2,1,1,0,442.832834,0
+31,Marathi,"['Life Insurance', 'Home Insurance']",24,1,Marathi,48,Education Insurance,22.28968107,7,3,4,1,401.3630562,1
+22,Telgu,['Car Insurance'],25,1,Telgu,8,Home Insurance,35.55816152,14,9,6,0,509.1574754,1
+22,Telgu,['Education Insurance'],40,3,Telgu,14,Health Insurance,24.15419272,9,4,2,0,498.539296,0
+24,Marathi,['Health Insurance'],78,6,Marathi,12,Home Insurance,27.27412088,9,4,2,4,373.105784,0
+48,Marathi,"['Life Insurance', 'Home Insurance', 'Car Insurance']",22,1,Marathi,42,Home Insurance,24.54521028,7,3,2,1,521.2687096,0
+30,Telgu,"['Health Insurance', 'Car Insurance']",90,7,Telgu,7,Life Insurance,24.25134914,8,2,4,0,388.3456941,1
+23,English,['Life Insurance'],37,1,English,0,Health Insurance,28.2615892,7,2,2,0,326.1178313,0
+22,Urdu,['Home Insurance'],35,2,Urdu,45,Health Insurance,18.26987741,0,1,0,0,457.0439865,0
+41,Hindi,"['Education Insurance', 'Health Insurance', 'Home Insurance']",54,3,Hindi,3,Life Insurance,30.69931038,11,7,7,1,411.7860254,1
+33,Hindi,"['Education Insurance', 'Health Insurance']",94,7,Hindi,11,Life Insurance,28.21483197,7,4,4,0,375.325803,1
+21,Hindi,['Car Insurance'],62,3,Hindi,11,Health Insurance,18.98069467,4,0,1,2,414.6816676,0
+33,Hindi,"['Car Insurance', 'Life Insurance']",40,1,Hindi,7,Life Insurance,16.45696361,2,1,1,4,390.0790671,0
+27,English,['Car Insurance'],83,4,English,34,Life Insurance,19.88141123,3,0,1,0,410.8873469,0
+48,Marathi,"['Health Insurance', 'Education Insurance', 'Home Insurance']",21,1,Marathi,48,Health Insurance,24.11347614,6,4,3,1,532.9748124,0
+44,Urdu,"['Health Insurance', 'Life Insurance', 'Car Insurance']",30,2,Urdu,40,Car Insurance,20.71650198,8,3,3,3,678.5773597,0
+34,Marathi,"['Life Insurance', 'Education Insurance']",36,1,Marathi,15,Education Insurance,21.98489255,5,2,2,1,514.1328037,0
+27,Telgu,['Home Insurance'],54,1,Telgu,12,Life Insurance,22.84725843,8,2,4,0,310.3659807,1
+43,Marathi,"['Life Insurance', 'Car Insurance', 'Home Insurance']",85,1,Marathi,48,Health Insurance,17.09375886,2,0,1,0,469.553305,0
+27,Marathi,['Health Insurance'],34,1,Marathi,10,Health Insurance,28.58076202,9,2,3,0,703.045565,0
+48,Telgu,"['Home Insurance', 'Car Insurance', 'Education Insurance']",51,2,Telgu,10,Home Insurance,23.55386724,5,4,4,3,465.9794289,0
+48,Telgu,"['Home Insurance', 'Life Insurance', 'Health Insurance']",30,1,Telgu,33,Car Insurance,30.31356669,11,9,6,0,515.3423604,1
+32,Hindi,"['Health Insurance', 'Education Insurance']",87,6,Hindi,4,Car Insurance,23.48438452,6,2,4,0,385.3163146,1
+33,Urdu,"['Life Insurance', 'Car Insurance']",99,8,Urdu,43,Education Insurance,22.11480378,9,4,4,1,359.3770657,1
+47,Hindi,"['Life Insurance', 'Home Insurance', 'Health Insurance']",42,2,Hindi,2,Home Insurance,23.08048432,6,4,3,0,384.7158444,0
+20,English,['Car Insurance'],66,1,English,44,Health Insurance,27.46493275,8,3,2,3,490.1747143,0
+48,Urdu,"['Car Insurance', 'Education Insurance', 'Home Insurance']",72,1,Urdu,34,Health Insurance,25.69112319,5,2,3,0,472.510046,0
+27,Marathi,['Life Insurance'],73,6,Marathi,32,Life Insurance,21.20452033,5,4,3,0,342.1760031,0
+34,Marathi,"['Life Insurance', 'Health Insurance']",36,2,Marathi,10,Car Insurance,24.2139767,9,3,2,0,416.757364,0
+28,English,['Car Insurance'],78,6,English,29,Education Insurance,28.5863559,9,2,2,3,364.6886148,0
+35,Marathi,"['Education Insurance', 'Life Insurance']",36,2,Marathi,1,Health Insurance,28.01543315,8,4,4,2,582.4142654,1
+43,Urdu,"['Life Insurance', 'Health Insurance', 'Home Insurance']",61,5,Urdu,21,Home Insurance,19.36408084,1,1,1,0,358.5674094,0
+48,Urdu,"['Life Insurance', 'Education Insurance', 'Home Insurance']",60,2,Urdu,10,Car Insurance,20.90716103,7,3,3,2,394.6340458,0
+38,Telgu,"['Education Insurance', 'Home Insurance']",64,5,Telgu,21,Education Insurance,28.44935504,9,3,2,0,502.525648,0
+31,Hindi,"['Education Insurance', 'Health Insurance']",47,2,Hindi,22,Health Insurance,18.62890193,2,0,1,0,528.1375635,0
+29,Urdu,['Home Insurance'],44,1,Urdu,14,Home Insurance,19.70258124,1,0,1,4,450.580702,0
+24,Hindi,['Education Insurance'],26,1,Hindi,19,Education Insurance,26.76235576,8,4,3,0,318.4676337,0
+34,Hindi,"['Life Insurance', 'Home Insurance']",78,2,Hindi,5,Education Insurance,34.23910929,11,9,5,2,418.2919801,1
+49,Hindi,"['Home Insurance', 'Car Insurance', 'Health Insurance']",23,1,Hindi,30,Life Insurance,28.19453722,8,3,4,0,604.3106933,1
+49,Marathi,"['Life Insurance', 'Health Insurance', 'Education Insurance']",74,6,Marathi,24,Home Insurance,27.19675004,8,2,2,0,533.8625343,0
+24,Telgu,['Car Insurance'],44,3,Telgu,32,Home Insurance,27.95392296,8,4,3,3,366.219186,0
+47,Hindi,"['Education Insurance', 'Home Insurance', 'Life Insurance']",28,1,Hindi,25,Education Insurance,28.82715949,7,2,3,3,418.3092874,0
+46,Urdu,"['Car Insurance', 'Home Insurance', 'Life Insurance']",74,6,Urdu,22,Health Insurance,19.14272696,2,0,1,0,412.2860802,0
+36,Telgu,"['Home Insurance', 'Health Insurance']",33,1,Telgu,21,Health Insurance,26.70594651,8,4,4,3,594.1894233,0
+30,English,"['Education Insurance', 'Car Insurance']",98,1,English,35,Car Insurance,24.12314752,9,2,3,0,412.6387678,0
+35,English,"['Home Insurance', 'Life Insurance']",99,3,English,10,Life Insurance,17.25238724,1,0,0,2,470.701591,0
+43,Telgu,"['Home Insurance', 'Health Insurance', 'Education Insurance']",67,4,Telgu,18,Education Insurance,25.42593351,6,4,3,0,399.6280279,0
+30,Urdu,"['Education Insurance', 'Car Insurance']",95,3,Urdu,17,Home Insurance,17.52567023,3,0,0,3,404.1038967,0
+48,Marathi,"['Health Insurance', 'Home Insurance', 'Car Insurance']",45,3,Marathi,38,Home Insurance,28.93565546,8,3,4,3,624.7511788,0
+29,Hindi,['Life Insurance'],41,1,Hindi,41,Home Insurance,23.03165519,6,2,2,0,434.8766571,0
+39,English,"['Health Insurance', 'Education Insurance']",25,1,English,46,Car Insurance,22.69804148,9,2,3,0,440.2368146,0
+33,Telgu,"['Health Insurance', 'Home Insurance']",20,1,Telgu,3,Car Insurance,31.38091099,15,6,8,0,516.6422412,1
+39,Urdu,"['Car Insurance', 'Health Insurance']",22,1,Urdu,6,Home Insurance,22.3395142,8,4,2,3,496.2958257,0
+40,English,"['Car Insurance', 'Education Insurance', 'Home Insurance']",88,7,English,46,Car Insurance,22.11553846,6,3,4,0,230.6589741,1
+27,English,['Education Insurance'],94,2,English,45,Education Insurance,24.29417448,7,4,4,0,412.6598625,1
+45,English,"['Education Insurance', 'Life Insurance', 'Home Insurance']",40,3,English,23,Education Insurance,24.26097866,5,4,3,3,628.8378346,0
+23,English,['Life Insurance'],75,4,English,8,Car Insurance,22.0665413,8,2,2,0,419.6975639,0
+29,Marathi,['Education Insurance'],71,3,Marathi,32,Education Insurance,27.04222232,5,4,2,3,480.593287,0
+28,Telgu,['Education Insurance'],70,1,Telgu,43,Education Insurance,25.67896461,5,4,4,0,491.4622986,1
+25,English,['Education Insurance'],84,2,English,41,Home Insurance,25.80895049,9,3,4,0,454.1368232,1
+47,Telgu,"['Health Insurance', 'Home Insurance', 'Life Insurance']",59,3,Telgu,28,Car Insurance,24.54139196,5,4,2,0,351.4747636,0
+37,Marathi,"['Home Insurance', 'Car Insurance']",53,3,Marathi,47,Education Insurance,27.60068065,7,4,3,0,356.1511984,0
+45,Telgu,"['Life Insurance', 'Education Insurance', 'Car Insurance']",34,1,Telgu,33,Life Insurance,25.22267416,5,4,4,0,403.7139083,1
+45,Urdu,"['Car Insurance', 'Life Insurance', 'Home Insurance']",23,1,Urdu,15,Car Insurance,26.10814774,9,4,3,0,399.5337783,0
+20,English,['Life Insurance'],29,1,English,33,Car Insurance,23.71356391,9,2,2,2,552.4490781,0
+34,Hindi,"['Health Insurance', 'Education Insurance']",32,1,Hindi,32,Life Insurance,23.13998089,5,3,4,0,330.7841161,1
+26,English,['Education Insurance'],57,3,English,28,Education Insurance,28.73883712,7,4,2,0,407.2510174,0
+49,Telgu,"['Life Insurance', 'Car Insurance', 'Home Insurance']",21,1,Telgu,30,Car Insurance,20.80837202,6,3,3,0,494.2211462,0
+39,Urdu,"['Education Insurance', 'Home Insurance']",61,4,Urdu,20,Education Insurance,21.82964283,7,2,4,4,466.5771537,0
+21,English,['Home Insurance'],61,3,English,13,Education Insurance,20.59276978,8,3,3,0,348.134088,0
+32,Hindi,"['Education Insurance', 'Home Insurance']",60,5,Hindi,17,Home Insurance,29.42662107,8,4,4,2,413.9338727,1
+28,Marathi,['Health Insurance'],28,1,Marathi,20,Home Insurance,28.52277685,5,2,3,1,419.9556724,0
+38,English,"['Health Insurance', 'Life Insurance']",67,3,English,12,Car Insurance,24.46029692,7,2,3,1,549.9368735,0
+22,Marathi,['Education Insurance'],61,5,Marathi,20,Life Insurance,31.1990776,18,6,5,1,566.6726614,1
+26,Hindi,['Life Insurance'],40,3,Hindi,48,Health Insurance,24.51583571,9,4,4,0,504.1562985,1
+43,Marathi,"['Life Insurance', 'Car Insurance', 'Home Insurance']",64,2,Marathi,41,Life Insurance,31.57823271,16,6,9,1,522.2382617,1
+33,Hindi,"['Car Insurance', 'Health Insurance']",36,1,Hindi,38,Car Insurance,24.08938797,8,3,2,1,701.9155893,0
+29,Telgu,['Home Insurance'],69,5,Telgu,23,Life Insurance,26.72868769,7,3,3,0,385.3965418,0
+38,Hindi,"['Car Insurance', 'Home Insurance']",73,3,Hindi,10,Health Insurance,29.40460107,6,3,3,2,427.4805371,0
+48,Hindi,"['Education Insurance', 'Life Insurance', 'Health Insurance']",54,1,Hindi,26,Education Insurance,27.65877118,6,4,3,2,413.5866878,0
+41,Urdu,"['Life Insurance', 'Car Insurance', 'Home Insurance']",76,5,Urdu,44,Car Insurance,18.07533944,4,0,1,0,358.72504,0
+43,Hindi,"['Health Insurance', 'Home Insurance', 'Car Insurance']",48,2,Hindi,36,Health Insurance,29.26983381,5,3,3,2,464.8326182,0
+29,Marathi,['Life Insurance'],79,3,Marathi,16,Home Insurance,34.5853448,13,5,7,4,512.8949652,0
+39,Hindi,"['Car Insurance', 'Home Insurance']",82,3,Hindi,9,Education Insurance,20.60728505,9,3,2,3,610.51734,0
+35,Hindi,"['Life Insurance', 'Health Insurance']",53,3,Hindi,20,Home Insurance,30.06282262,12,9,9,1,394.8046034,1
+24,English,['Car Insurance'],48,1,English,46,Life Insurance,16.95113617,0,0,0,0,464.8357761,0
+42,Telgu,"['Education Insurance', 'Home Insurance', 'Car Insurance']",38,2,Telgu,8,Health Insurance,23.05628737,5,3,4,0,420.5911214,1
+34,English,"['Life Insurance', 'Car Insurance']",35,1,English,44,Home Insurance,27.85770427,8,2,2,3,566.4608252,0
+23,Telgu,['Life Insurance'],93,1,Telgu,0,Home Insurance,30.85689574,15,5,5,0,441.7508801,1
+33,Marathi,"['Education Insurance', 'Car Insurance']",85,7,Marathi,14,Education Insurance,25.89997035,9,4,4,2,551.1968706,1
+22,Urdu,['Life Insurance'],25,1,Urdu,36,Life Insurance,27.45582219,7,4,4,4,324.1395806,0
+45,Urdu,"['Health Insurance', 'Life Insurance', 'Home Insurance']",24,1,Urdu,15,Home Insurance,22.31131533,5,3,3,1,420.4470718,0
+40,Marathi,"['Education Insurance', 'Car Insurance', 'Life Insurance']",32,1,Marathi,12,Home Insurance,17.18961488,3,0,1,2,261.9335302,0
+45,Telgu,"['Car Insurance', 'Home Insurance', 'Life Insurance']",91,8,Telgu,40,Home Insurance,27.57983525,5,4,2,1,539.3146551,0
+26,Marathi,['Health Insurance'],97,4,Marathi,43,Education Insurance,24.78081323,5,3,4,1,569.6703385,1
+21,English,['Home Insurance'],97,2,English,36,Education Insurance,25.36111606,5,3,3,3,417.2355157,0
+37,Telgu,"['Home Insurance', 'Education Insurance']",93,2,Telgu,7,Education Insurance,29.75462348,6,2,4,2,442.0841016,1
+35,Telgu,"['Life Insurance', 'Education Insurance']",45,2,Telgu,29,Home Insurance,30.50734875,19,5,7,0,289.7636338,1
+20,Urdu,['Home Insurance'],40,1,Urdu,18,Car Insurance,27.77100754,7,2,4,0,332.6842594,1
+30,English,"['Education Insurance', 'Home Insurance']",32,1,English,21,Education Insurance,17.15709404,4,0,0,0,556.0222129,0
+46,English,"['Health Insurance', 'Education Insurance', 'Car Insurance']",20,1,English,16,Car Insurance,33.29004876,18,7,8,2,575.9199798,1
+48,Urdu,"['Education Insurance', 'Life Insurance', 'Car Insurance']",41,1,Urdu,14,Home Insurance,19.15317963,1,1,1,1,373.1336228,0
+39,English,"['Car Insurance', 'Life Insurance']",98,1,English,30,Health Insurance,15.23926217,4,0,1,0,466.651237,0
+34,English,"['Health Insurance', 'Home Insurance']",99,5,English,28,Life Insurance,29.93146239,8,4,4,0,189.5499568,1
+43,Hindi,"['Education Insurance', 'Home Insurance', 'Car Insurance']",43,1,Hindi,13,Home Insurance,21.19040239,8,3,4,0,318.6444192,1
+26,Urdu,['Health Insurance'],40,1,Urdu,6,Life Insurance,29.76668293,9,2,4,0,480.2025715,1
+33,Marathi,"['Education Insurance', 'Home Insurance']",29,1,Marathi,40,Life Insurance,23.2683761,9,2,3,0,692.7568568,0
+24,Telgu,['Car Insurance'],30,2,Telgu,7,Home Insurance,27.42180966,6,4,2,4,579.2887851,0
+47,Urdu,"['Home Insurance', 'Health Insurance', 'Car Insurance']",48,1,Urdu,45,Car Insurance,18.19259645,3,1,1,2,409.8363587,0
+24,Hindi,['Health Insurance'],48,3,Hindi,1,Life Insurance,30.25479411,16,5,9,0,306.8545279,1
+26,Hindi,['Education Insurance'],41,2,Hindi,34,Life Insurance,19.17174993,2,1,0,1,411.1777966,0
+32,Telgu,"['Education Insurance', 'Home Insurance']",39,2,Telgu,11,Life Insurance,26.77928946,6,3,4,0,428.6654329,1
+30,Urdu,"['Health Insurance', 'Life Insurance']",43,2,Urdu,19,Car Insurance,27.79901136,6,4,4,0,260.4800988,1
+41,Telgu,"['Life Insurance', 'Education Insurance', 'Home Insurance']",98,2,Telgu,34,Home Insurance,25.48949162,7,3,4,1,460.4972874,1
+40,English,"['Health Insurance', 'Home Insurance', 'Life Insurance']",20,1,English,44,Education Insurance,20.57651886,5,4,2,1,467.9514673,0
+22,Marathi,['Life Insurance'],27,1,Marathi,8,Education Insurance,16.13820196,4,1,0,0,558.3094807,0
+47,Urdu,"['Car Insurance', 'Health Insurance', 'Education Insurance']",73,5,Urdu,22,Education Insurance,25.05803117,8,4,3,0,526.9024761,0
+31,Telgu,"['Home Insurance', 'Life Insurance']",29,1,Telgu,36,Home Insurance,30.66491782,12,9,9,3,497.0179318,0
+37,Hindi,"['Life Insurance', 'Health Insurance']",98,6,Hindi,28,Home Insurance,38.0968975,19,6,7,4,337.2547501,0
+34,Urdu,"['Life Insurance', 'Education Insurance']",28,1,Urdu,21,Life Insurance,32.29769249,18,9,9,2,249.8903942,1
+41,Hindi,"['Health Insurance', 'Education Insurance', 'Car Insurance']",25,1,Hindi,10,Car Insurance,20.64774006,6,2,2,0,557.3451177,0
+29,Hindi,['Car Insurance'],69,5,Hindi,7,Home Insurance,8.014406887,1,1,1,0,459.7750857,0
+46,Marathi,"['Life Insurance', 'Home Insurance', 'Education Insurance']",42,1,Marathi,32,Car Insurance,23.99543099,5,3,2,0,386.8262622,0
+43,Hindi,"['Education Insurance', 'Health Insurance', 'Car Insurance']",67,4,Hindi,25,Education Insurance,25.21790899,7,3,4,0,657.9197743,1
+21,Hindi,['Education Insurance'],87,1,Hindi,8,Home Insurance,14.87757937,2,1,1,0,331.2506744,0
+33,Telgu,"['Life Insurance', 'Car Insurance']",46,1,Telgu,3,Health Insurance,20.66995047,6,4,2,0,391.0351632,0
+37,Urdu,"['Life Insurance', 'Car Insurance']",98,6,Urdu,7,Home Insurance,35.51159334,15,5,5,0,445.8463319,1
+26,English,['Car Insurance'],29,1,English,32,Life Insurance,31.14498751,17,8,5,0,401.5303275,1
+48,English,"['Life Insurance', 'Health Insurance', 'Car Insurance']",20,1,English,29,Health Insurance,18.10368031,2,0,1,4,344.8306858,0
+29,Hindi,['Home Insurance'],31,2,Hindi,24,Health Insurance,27.74607224,7,4,4,2,202.511623,1
+39,Marathi,"['Car Insurance', 'Life Insurance']",60,3,Marathi,18,Life Insurance,20.20960958,7,2,2,2,501.5309104,0
+27,English,['Education Insurance'],26,1,English,36,Life Insurance,14.27143257,4,1,0,0,495.7186869,0
+31,Urdu,"['Car Insurance', 'Education Insurance']",65,1,Urdu,10,Car Insurance,20.7786264,6,3,2,2,379.6671454,0
+29,Hindi,['Home Insurance'],63,3,Hindi,44,Education Insurance,28.3659957,9,2,2,1,446.9614583,0
+25,Telgu,['Education Insurance'],33,1,Telgu,12,Health Insurance,19.20265901,0,0,0,0,493.3933264,0
+49,Telgu,"['Health Insurance', 'Car Insurance', 'Education Insurance']",95,5,Telgu,6,Education Insurance,24.99375146,6,4,3,3,188.5632103,0
+40,Hindi,"['Education Insurance', 'Car Insurance', 'Life Insurance']",52,4,Hindi,31,Education Insurance,24.39212496,7,3,3,2,370.9127942,0
+38,English,"['Health Insurance', 'Home Insurance']",89,4,English,33,Health Insurance,32.77920918,14,5,8,0,572.0160984,1
+47,English,"['Home Insurance', 'Education Insurance', 'Car Insurance']",95,6,English,43,Education Insurance,28.64052617,8,2,3,2,431.5523859,0
+43,Telgu,"['Health Insurance', 'Home Insurance', 'Life Insurance']",48,1,Telgu,39,Life Insurance,29.05779961,9,3,2,0,446.0459206,0
+49,Marathi,"['Education Insurance', 'Health Insurance', 'Life Insurance']",45,2,Marathi,37,Car Insurance,25.83038575,5,4,2,3,534.8221946,0
+24,Marathi,['Car Insurance'],58,4,Marathi,27,Home Insurance,28.07335818,5,4,4,0,546.2432678,1
+38,Urdu,"['Car Insurance', 'Home Insurance']",72,1,Urdu,14,Life Insurance,23.92986715,5,3,3,2,451.7562193,0
+43,Hindi,"['Education Insurance', 'Home Insurance', 'Health Insurance']",45,2,Hindi,9,Life Insurance,23.24420692,7,4,4,2,454.4127613,1
+49,English,"['Home Insurance', 'Health Insurance', 'Education Insurance']",45,3,English,4,Life Insurance,24.17857132,6,2,2,0,567.4106324,0
+24,Marathi,['Education Insurance'],75,2,Marathi,40,Health Insurance,20.30878616,9,2,2,1,313.1264621,0
+35,Marathi,"['Health Insurance', 'Car Insurance']",87,7,Marathi,31,Car Insurance,23.96739229,7,4,3,2,328.1457395,0
+26,Urdu,['Education Insurance'],44,3,Urdu,35,Car Insurance,33.95045452,19,5,8,2,369.7146472,1
+38,Urdu,"['Health Insurance', 'Home Insurance']",51,1,Urdu,15,Car Insurance,34.68550572,17,6,6,0,421.2161201,1
+39,Telgu,"['Car Insurance', 'Home Insurance']",75,5,Telgu,16,Life Insurance,33.90100782,10,8,9,1,671.4092612,1
+32,Telgu,"['Education Insurance', 'Life Insurance']",77,5,Telgu,23,Health Insurance,22.32102334,8,3,2,0,341.2684418,0
+38,English,"['Life Insurance', 'Education Insurance']",34,1,English,2,Car Insurance,24.64204217,9,3,4,3,376.834718,0
+21,Urdu,['Education Insurance'],33,2,Urdu,17,Car Insurance,24.54465478,9,2,3,0,242.0327052,0
+48,Telgu,"['Home Insurance', 'Education Insurance', 'Life Insurance']",94,2,Telgu,2,Life Insurance,22.32180418,5,3,4,0,479.8303386,1
+24,Urdu,['Education Insurance'],95,4,Urdu,4,Health Insurance,27.16135309,6,4,4,1,618.2479225,1
+36,Urdu,"['Car Insurance', 'Life Insurance']",49,3,Urdu,43,Life Insurance,30.78402542,18,6,6,0,524.1154496,1
+44,Urdu,"['Health Insurance', 'Car Insurance', 'Life Insurance']",47,2,Urdu,5,Health Insurance,24.6734363,5,3,4,1,558.2150468,1
+39,English,"['Health Insurance', 'Education Insurance']",58,2,English,11,Home Insurance,27.67558805,8,2,4,2,416.1114532,1
+34,Urdu,"['Car Insurance', 'Life Insurance']",30,1,Urdu,25,Health Insurance,24.3854476,9,3,4,1,472.1418403,1
+37,Urdu,"['Life Insurance', 'Car Insurance']",49,2,Urdu,27,Education Insurance,23.13787433,5,2,2,0,450.4291887,0
+24,Urdu,['Health Insurance'],52,4,Urdu,13,Home Insurance,24.29597119,8,3,2,1,491.5357648,0
+22,Telgu,['Health Insurance'],88,2,Telgu,6,Home Insurance,25.40269329,8,2,4,0,391.2031175,1
+38,Marathi,"['Home Insurance', 'Car Insurance']",59,1,Marathi,43,Car Insurance,27.41905024,8,2,4,1,557.2636217,1
+45,Hindi,"['Car Insurance', 'Education Insurance', 'Life Insurance']",85,4,Hindi,17,Home Insurance,25.05947381,8,4,4,1,504.1197238,1
+46,Telgu,"['Home Insurance', 'Education Insurance', 'Health Insurance']",25,1,Telgu,26,Education Insurance,24.67595351,7,2,4,0,516.2124765,1
+23,Marathi,['Health Insurance'],51,2,Marathi,19,Education Insurance,29.40634927,5,4,4,2,470.6149107,1
+30,Telgu,"['Life Insurance', 'Health Insurance']",59,3,Telgu,5,Car Insurance,19.32653025,1,1,0,0,415.6346262,0
+48,Marathi,"['Education Insurance', 'Life Insurance', 'Car Insurance']",61,5,Marathi,8,Car Insurance,33.83635851,13,8,6,0,497.6604116,1
+33,Hindi,"['Health Insurance', 'Home Insurance']",53,2,Hindi,38,Education Insurance,29.26823673,7,4,3,2,491.5914525,0
+26,Marathi,['Health Insurance'],39,2,Marathi,6,Life Insurance,25.90695984,7,4,2,1,318.4948114,0
+29,Urdu,['Car Insurance'],83,5,Urdu,21,Education Insurance,19.07735607,3,0,1,0,367.6295628,0
+20,Hindi,['Life Insurance'],29,1,Hindi,31,Home Insurance,26.09441191,8,4,4,0,611.2798224,1
+41,Marathi,"['Education Insurance', 'Life Insurance', 'Home Insurance']",40,2,Marathi,27,Home Insurance,28.22087631,5,4,4,0,434.9931903,1
+37,Hindi,"['Car Insurance', 'Life Insurance']",90,7,Hindi,18,Home Insurance,28.99446186,7,3,2,0,481.5791437,0
+37,Telgu,"['Life Insurance', 'Home Insurance']",87,3,Telgu,13,Car Insurance,21.61234111,7,3,2,0,370.4973549,0
+27,Telgu,['Life Insurance'],78,5,Telgu,24,Home Insurance,19.60271209,3,1,1,3,594.5913915,0
+40,Urdu,"['Car Insurance', 'Education Insurance', 'Home Insurance']",92,2,Urdu,7,Home Insurance,21.61463074,7,4,4,0,454.8259952,1
+33,Telgu,"['Life Insurance', 'Car Insurance']",90,5,Telgu,4,Home Insurance,19.60009717,3,0,1,2,340.5885615,0
+47,English,"['Life Insurance', 'Car Insurance', 'Home Insurance']",96,6,English,43,Home Insurance,16.96420447,0,1,0,2,495.5546121,0
+37,Telgu,"['Car Insurance', 'Health Insurance']",85,2,Telgu,2,Home Insurance,23.3056006,6,3,2,0,490.9213869,0
+28,Marathi,['Life Insurance'],61,3,Marathi,5,Life Insurance,30.33294284,14,6,9,2,434.368468,1
+36,English,"['Life Insurance', 'Car Insurance']",67,1,English,42,Car Insurance,20.34088885,7,4,3,0,402.8181117,0
+26,Marathi,['Education Insurance'],80,4,Marathi,40,Home Insurance,19.42780079,2,1,0,4,364.3507112,0
+27,Marathi,['Life Insurance'],36,2,Marathi,34,Health Insurance,33.5266698,19,5,9,3,412.154379,0
+39,Hindi,"['Education Insurance', 'Life Insurance']",96,8,Hindi,6,Home Insurance,23.35220373,5,4,4,2,514.9414964,1
+28,Telgu,['Car Insurance'],43,1,Telgu,44,Home Insurance,27.83118581,6,3,3,0,437.2479719,0
+20,English,['Life Insurance'],33,1,English,47,Life Insurance,21.76667802,6,4,3,0,512.4606942,0
+26,English,['Car Insurance'],56,2,English,2,Car Insurance,19.84748653,1,0,0,0,462.7547131,0
+21,Urdu,['Car Insurance'],76,1,Urdu,3,Home Insurance,22.3290901,9,2,3,1,336.8886605,0
+34,Marathi,"['Education Insurance', 'Home Insurance']",31,1,Marathi,7,Life Insurance,16.23111476,1,0,1,0,435.5323711,0
+34,Hindi,"['Car Insurance', 'Education Insurance']",84,3,Hindi,38,Health Insurance,26.95892828,7,4,3,0,515.0095804,0
+43,English,"['Home Insurance', 'Life Insurance', 'Health Insurance']",31,1,English,43,Home Insurance,30.2270078,16,6,5,2,603.8970884,1
+34,Hindi,"['Education Insurance', 'Car Insurance']",78,5,Hindi,40,Education Insurance,27.7095016,8,4,3,3,487.2930486,0
+45,English,"['Health Insurance', 'Life Insurance', 'Car Insurance']",78,1,English,18,Education Insurance,24.1075144,5,3,4,2,570.5026828,1
+27,Marathi,['Car Insurance'],59,1,Marathi,16,Health Insurance,28.58788662,5,3,4,0,434.875249,1
+49,Telgu,"['Health Insurance', 'Education Insurance', 'Car Insurance']",83,5,Telgu,25,Car Insurance,25.06265768,9,3,4,0,333.4947571,1
+38,Marathi,"['Health Insurance', 'Car Insurance']",96,6,Marathi,21,Health Insurance,22.09766086,9,2,2,0,474.0620596,0
+30,English,"['Health Insurance', 'Education Insurance']",20,1,English,45,Health Insurance,34.50039817,13,9,8,0,352.201593,1
+21,English,['Life Insurance'],85,4,English,28,Health Insurance,23.10453815,8,4,3,3,487.8907696,0
+47,English,"['Home Insurance', 'Life Insurance', 'Car Insurance']",70,6,English,24,Education Insurance,29.18877437,9,3,4,2,503.5567128,1
+43,Urdu,"['Health Insurance', 'Home Insurance', 'Life Insurance']",73,2,Urdu,39,Home Insurance,21.10099094,5,3,2,3,552.39624,0
+29,Urdu,['Car Insurance'],73,6,Urdu,47,Education Insurance,23.7555665,5,4,2,2,490.4185981,0
+23,Hindi,['Life Insurance'],88,5,Hindi,30,Education Insurance,27.58560972,9,3,4,2,441.4178228,1
+46,Telgu,"['Home Insurance', 'Education Insurance', 'Car Insurance']",95,8,Telgu,40,Car Insurance,25.34933169,6,2,3,0,292.5915068,0
+27,Hindi,['Home Insurance'],69,3,Hindi,9,Life Insurance,28.88769696,6,4,3,2,435.7900558,0
+31,English,"['Home Insurance', 'Health Insurance']",28,1,English,37,Health Insurance,27.68063718,6,4,2,0,449.7353797,0
+30,Marathi,"['Car Insurance', 'Health Insurance']",21,1,Marathi,41,Education Insurance,25.34388134,5,3,3,1,612.9229,0
+43,Marathi,"['Car Insurance', 'Life Insurance', 'Health Insurance']",98,1,Marathi,43,Car Insurance,24.99987664,9,4,2,2,632.6995785,0
+35,Hindi,"['Health Insurance', 'Home Insurance']",29,1,Hindi,43,Car Insurance,17.60302534,1,0,1,0,602.5870219,0
+45,Telgu,"['Car Insurance', 'Home Insurance', 'Health Insurance']",53,4,Telgu,44,Health Insurance,25.29393038,6,2,3,0,461.9220885,0
+34,Hindi,"['Home Insurance', 'Education Insurance']",46,3,Hindi,9,Education Insurance,21.07291547,6,4,4,0,480.2695134,1
+25,Marathi,['Life Insurance'],90,6,Marathi,8,Car Insurance,27.52778576,8,4,3,1,541.5853236,0
+39,English,"['Home Insurance', 'Education Insurance']",54,4,English,10,Education Insurance,23.2680845,7,4,4,3,483.9177329,0
+24,Telgu,['Education Insurance'],92,5,Telgu,28,Home Insurance,31.82803062,14,9,9,2,500.2269375,1
+20,English,['Life Insurance'],72,6,English,37,Car Insurance,24.41041271,7,3,4,1,363.5536398,1
+36,Hindi,"['Health Insurance', 'Home Insurance']",86,4,Hindi,29,Education Insurance,21.31290135,5,2,3,0,554.9417377,0
+49,Hindi,"['Health Insurance', 'Car Insurance', 'Life Insurance']",31,2,Hindi,0,Education Insurance,25.81267595,8,2,3,0,258.8322967,0
+29,Telgu,['Car Insurance'],27,1,Telgu,30,Home Insurance,30.46778844,12,9,7,1,369.7425303,1
+33,Marathi,"['Home Insurance', 'Education Insurance']",56,2,Marathi,9,Car Insurance,23.03837767,6,3,2,0,509.1447093,0
+43,English,"['Life Insurance', 'Education Insurance', 'Car Insurance']",21,1,English,14,Education Insurance,14.15097877,4,1,1,0,284.2682649,0
+31,Urdu,"['Education Insurance', 'Car Insurance']",50,1,Urdu,35,Education Insurance,24.1309516,9,4,2,1,450.0843106,0
+43,Telgu,"['Education Insurance', 'Life Insurance', 'Health Insurance']",82,5,Telgu,47,Home Insurance,26.48104272,9,3,4,2,367.3765625,1
+29,Marathi,['Health Insurance'],74,1,Marathi,45,Life Insurance,33.52155339,12,8,6,1,317.3876443,1
+27,Marathi,['Life Insurance'],42,2,Marathi,29,Life Insurance,22.44732565,9,2,4,1,521.5627292,1
+28,Telgu,['Home Insurance'],57,3,Telgu,32,Health Insurance,28.48863127,6,4,4,2,360.1649257,1
+47,English,"['Home Insurance', 'Health Insurance', 'Life Insurance']",54,2,English,48,Education Insurance,24.46241409,9,2,2,0,404.7451885,0
+24,Marathi,['Car Insurance'],58,4,Marathi,34,Education Insurance,29.08383304,7,3,3,3,507.7400367,0
+26,Marathi,['Home Insurance'],42,1,Marathi,10,Car Insurance,26.77773865,8,3,2,0,496.8523341,0
+29,English,['Education Insurance'],38,1,English,42,Car Insurance,22.96263046,9,4,2,0,541.890456,0
+49,Marathi,"['Life Insurance', 'Health Insurance', 'Car Insurance']",77,6,Marathi,34,Life Insurance,32.32038127,13,8,5,2,288.8095717,1
+36,Marathi,"['Health Insurance', 'Life Insurance']",64,4,Marathi,24,Home Insurance,19.07032279,0,0,1,0,441.4964526,0
+39,Hindi,"['Education Insurance', 'Health Insurance']",84,5,Hindi,18,Home Insurance,33.3029891,19,6,6,2,217.156497,1
+32,Marathi,"['Car Insurance', 'Education Insurance']",95,2,Marathi,29,Life Insurance,21.50809413,5,2,3,0,400.5245373,0
+46,Telgu,"['Home Insurance', 'Education Insurance', 'Health Insurance']",90,7,Telgu,44,Home Insurance,31.72203615,11,5,9,3,404.4126949,0
+45,Marathi,"['Home Insurance', 'Education Insurance', 'Life Insurance']",20,1,Marathi,0,Life Insurance,25.73318943,5,4,2,1,276.9346468,0
+22,Marathi,['Education Insurance'],43,2,Marathi,37,Car Insurance,20.36483624,8,4,4,4,335.8471563,0
+38,Marathi,"['Home Insurance', 'Life Insurance']",53,1,Marathi,37,Car Insurance,26.35413668,8,4,2,0,451.912683,0
+33,English,"['Home Insurance', 'Education Insurance']",23,1,English,16,Health Insurance,24.44628534,8,2,3,0,487.0610489,0
+39,Telgu,"['Life Insurance', 'Education Insurance']",22,1,Telgu,14,Health Insurance,31.35199881,10,7,7,3,557.0124246,0
+40,English,"['Life Insurance', 'Education Insurance', 'Car Insurance']",27,1,English,25,Education Insurance,31.33408028,17,7,7,0,391.3994086,1
+29,Urdu,['Education Insurance'],73,2,Urdu,22,Home Insurance,24.59298237,7,4,3,1,338.6265107,0
+48,Telgu,"['Home Insurance', 'Health Insurance', 'Education Insurance']",36,2,Telgu,33,Health Insurance,30.36816998,15,9,7,2,605.4313278,1
+22,English,['Car Insurance'],69,1,English,43,Education Insurance,30.49255883,12,7,7,2,373.9367541,1
+36,Hindi,"['Health Insurance', 'Education Insurance']",89,4,Hindi,44,Car Insurance,22.73983139,7,3,4,1,290.0199319,1
+22,English,['Car Insurance'],80,3,English,16,Life Insurance,30.1048224,18,7,8,3,467.5274132,0
+36,Marathi,"['Health Insurance', 'Home Insurance']",61,3,Marathi,9,Car Insurance,24.66648744,9,3,2,1,391.3655853,0
+32,Telgu,"['Health Insurance', 'Home Insurance']",37,2,Telgu,29,Health Insurance,27.20700435,6,2,2,4,597.0599104,0
+27,Urdu,['Home Insurance'],91,8,Urdu,32,Education Insurance,26.92148969,5,4,3,1,713.7959468,0
+36,Urdu,"['Life Insurance', 'Education Insurance']",54,2,Urdu,2,Home Insurance,21.45500853,6,3,3,0,364.7921027,0
+46,Marathi,"['Education Insurance', 'Car Insurance', 'Life Insurance']",54,4,Marathi,23,Education Insurance,26.24316614,7,2,4,0,490.0150534,1
+41,Telgu,"['Life Insurance', 'Car Insurance', 'Home Insurance']",47,3,Telgu,9,Health Insurance,25.23736924,6,2,4,0,450.6219276,1
+40,Urdu,"['Health Insurance', 'Car Insurance', 'Education Insurance']",26,1,Urdu,43,Car Insurance,19.34452575,0,0,0,4,418.9169002,0
+26,Urdu,['Health Insurance'],32,2,Urdu,12,Health Insurance,15.74159386,0,1,0,0,435.4504382,0
+37,Urdu,"['Education Insurance', 'Life Insurance']",68,5,Urdu,37,Life Insurance,30.89176401,13,6,8,0,413.6505149,1
+49,Telgu,"['Health Insurance', 'Car Insurance', 'Life Insurance']",53,3,Telgu,15,Home Insurance,19.05297024,3,0,0,2,433.8735041,0
+49,Telgu,"['Life Insurance', 'Education Insurance', 'Health Insurance']",27,1,Telgu,10,Education Insurance,26.2277618,9,3,2,3,472.6220691,0
+44,English,"['Health Insurance', 'Car Insurance', 'Education Insurance']",67,4,English,8,Life Insurance,15.67710657,3,0,0,0,373.4629097,0
+43,Telgu,"['Car Insurance', 'Education Insurance', 'Home Insurance']",89,6,Telgu,35,Life Insurance,20.40246407,5,2,4,0,399.6900667,1
+27,English,['Life Insurance'],62,1,English,10,Education Insurance,27.0711603,5,2,4,1,473.7050157,1
+37,Urdu,"['Car Insurance', 'Life Insurance']",69,2,Urdu,19,Home Insurance,17.42682683,0,1,0,2,540.0445165,0
+24,Urdu,['Health Insurance'],97,5,Urdu,1,Health Insurance,25.05765788,5,4,4,0,376.0149118,1
+31,Hindi,"['Car Insurance', 'Home Insurance']",86,7,Hindi,45,Home Insurance,26.78007866,8,3,2,0,493.4062833,0
+29,Hindi,['Life Insurance'],82,1,Hindi,9,Life Insurance,25.81705636,8,4,3,3,482.8689946,0
+23,Urdu,['Health Insurance'],97,4,Urdu,0,Car Insurance,22.23518877,7,4,4,1,583.406641,1
+33,Urdu,"['Education Insurance', 'Health Insurance']",78,5,Urdu,45,Education Insurance,21.80704893,6,2,4,2,383.4401391,1
+20,Telgu,['Car Insurance'],66,4,Telgu,28,Home Insurance,31.2297563,15,7,5,1,481.1446478,1
+20,Urdu,['Education Insurance'],64,3,Urdu,42,Car Insurance,15.30170967,1,0,1,2,362.9604763,0
+26,English,['Life Insurance'],66,4,English,21,Life Insurance,30.68276411,12,8,5,0,580.9349299,1
+38,Urdu,"['Car Insurance', 'Home Insurance']",74,2,Urdu,39,Health Insurance,18.16676369,1,0,1,3,370.2684122,0
+42,English,"['Home Insurance', 'Life Insurance', 'Car Insurance']",79,6,English,3,Health Insurance,26.90660307,8,3,3,2,487.460325,0
+33,Marathi,"['Life Insurance', 'Health Insurance']",54,4,Marathi,38,Health Insurance,22.60883961,8,3,4,2,473.3440482,1
+49,English,"['Car Insurance', 'Education Insurance', 'Health Insurance']",20,1,English,44,Life Insurance,22.32724122,9,2,2,0,634.3346292,0
+23,Telgu,['Health Insurance'],47,2,Telgu,10,Home Insurance,29.09700639,7,2,2,2,546.5933981,0
+31,Urdu,"['Car Insurance', 'Life Insurance']",33,2,Urdu,34,Life Insurance,29.77084582,8,3,3,3,655.475705,0
+20,Marathi,['Education Insurance'],68,3,Marathi,5,Home Insurance,23.22603142,5,2,3,3,417.612214,0
+31,English,"['Car Insurance', 'Home Insurance']",45,1,English,1,Health Insurance,17.75720717,0,1,1,0,492.3812672,0
+35,Marathi,"['Education Insurance', 'Car Insurance']",70,2,Marathi,25,Health Insurance,27.50949388,5,4,2,2,485.0851369,0
+24,Marathi,['Home Insurance'],68,3,Marathi,11,Home Insurance,20.27103673,8,2,2,2,259.950542,0
+29,Marathi,['Home Insurance'],46,3,Marathi,28,Home Insurance,29.28220594,8,2,2,0,332.3259792,0
+25,Marathi,['Education Insurance'],75,5,Marathi,30,Car Insurance,19.49296158,1,0,0,0,302.194177,0
+45,Marathi,"['Car Insurance', 'Home Insurance', 'Health Insurance']",41,2,Marathi,3,Life Insurance,19.4869467,1,0,1,2,540.6800718,0
+37,Urdu,"['Car Insurance', 'Home Insurance']",55,2,Urdu,6,Home Insurance,30.07671397,11,6,9,1,417.8434062,1
+44,Hindi,"['Education Insurance', 'Life Insurance', 'Home Insurance']",75,6,Hindi,2,Life Insurance,31.67325837,11,7,5,0,404.6418801,1
+33,Telgu,"['Home Insurance', 'Car Insurance']",79,3,Telgu,10,Car Insurance,28.77109154,9,3,3,0,600.5787884,0
+26,Marathi,['Health Insurance'],82,6,Marathi,5,Life Insurance,24.87222839,5,3,3,1,400.0627599,0
+22,Hindi,['Car Insurance'],64,2,Hindi,27,Education Insurance,23.21791942,9,3,2,0,466.4843952,0
+49,Telgu,"['Home Insurance', 'Education Insurance', 'Life Insurance']",63,4,Telgu,22,Education Insurance,24.26561838,6,4,4,0,338.0683586,1
+27,Hindi,['Education Insurance'],79,1,Hindi,22,Car Insurance,22.00219471,7,4,4,2,433.2091646,1
+38,English,"['Life Insurance', 'Education Insurance']",68,1,English,40,Life Insurance,36.52533482,18,7,9,1,533.6591538,1
+21,English,['Life Insurance'],24,1,English,27,Car Insurance,26.39465992,7,2,3,0,380.1122618,0
+46,Marathi,"['Health Insurance', 'Life Insurance', 'Home Insurance']",86,4,Marathi,21,Health Insurance,23.99669113,6,3,3,1,638.9413946,0
+42,Urdu,"['Education Insurance', 'Life Insurance', 'Health Insurance']",47,1,Urdu,27,Health Insurance,22.83186522,5,3,4,0,340.7308538,1
+41,Urdu,"['Car Insurance', 'Health Insurance', 'Education Insurance']",27,1,Urdu,19,Car Insurance,32.28532764,12,7,8,3,529.7126565,0
+35,Hindi,"['Car Insurance', 'Home Insurance']",58,2,Hindi,4,Life Insurance,33.40573271,12,6,9,3,374.6171185,0
+33,English,"['Life Insurance', 'Education Insurance']",53,1,English,4,Life Insurance,27.61218286,9,2,2,0,558.5222824,0
+49,Hindi,"['Car Insurance', 'Home Insurance', 'Health Insurance']",52,2,Hindi,48,Education Insurance,25.20419247,9,2,4,1,399.7888901,1
+29,Telgu,['Education Insurance'],63,3,Telgu,5,Education Insurance,21.73744658,8,2,3,1,469.4935201,0
+30,Marathi,"['Health Insurance', 'Life Insurance']",63,4,Marathi,40,Home Insurance,22.32875799,8,4,2,0,479.8346666,0
+39,English,"['Life Insurance', 'Health Insurance']",44,1,English,25,Health Insurance,20.3253725,7,3,2,0,335.2167694,0
+49,Urdu,"['Home Insurance', 'Car Insurance', 'Health Insurance']",59,2,Urdu,14,Car Insurance,31.64119321,11,7,7,1,551.1953403,1
+38,Marathi,"['Life Insurance', 'Education Insurance']",78,1,Marathi,4,Health Insurance,21.11378149,9,3,4,1,329.7240992,1
+36,Urdu,"['Health Insurance', 'Education Insurance']",24,1,Urdu,28,Education Insurance,29.5494361,7,4,2,1,544.7306515,0
+38,English,"['Car Insurance', 'Life Insurance']",90,1,English,16,Car Insurance,27.98558207,8,3,3,2,511.2340057,0
+44,Urdu,"['Life Insurance', 'Education Insurance', 'Health Insurance']",20,1,Urdu,10,Education Insurance,22.76039171,8,2,2,3,339.9231407,0
+39,English,"['Home Insurance', 'Life Insurance']",41,3,English,4,Health Insurance,24.18598448,9,3,4,0,162.0096397,1
+47,Urdu,"['Life Insurance', 'Car Insurance', 'Education Insurance']",50,1,Urdu,25,Education Insurance,21.16728999,8,3,3,3,433.5854568,0
+49,Urdu,"['Health Insurance', 'Car Insurance', 'Life Insurance']",50,2,Urdu,14,Car Insurance,24.29577103,9,4,2,0,401.730557,0
+23,Urdu,['Health Insurance'],40,3,Urdu,28,Home Insurance,23.88085922,8,3,3,0,451.113921,0
+45,Marathi,"['Life Insurance', 'Health Insurance', 'Car Insurance']",67,1,Marathi,6,Home Insurance,22.18869822,6,2,4,0,353.2145598,1
+28,Urdu,['Car Insurance'],91,4,Urdu,36,Life Insurance,14.28421676,4,1,0,0,458.1126091,0
+40,Hindi,"['Education Insurance', 'Home Insurance', 'Life Insurance']",65,4,Hindi,11,Home Insurance,19.57597444,0,0,1,0,465.0980874,0
+32,Hindi,"['Education Insurance', 'Home Insurance']",44,1,Hindi,14,Home Insurance,25.78475933,5,4,3,1,519.2558424,0
+28,Urdu,['Life Insurance'],26,1,Urdu,44,Health Insurance,27.13030028,8,3,3,0,409.9489408,0
+21,Urdu,['Car Insurance'],63,5,Urdu,29,Car Insurance,26.19853482,6,4,2,0,526.6189418,0
+37,Urdu,"['Health Insurance', 'Life Insurance']",57,4,Urdu,10,Car Insurance,27.96909521,9,3,4,0,471.0077973,1
+32,Telgu,"['Home Insurance', 'Life Insurance']",21,1,Telgu,44,Health Insurance,20.93013451,5,3,3,1,482.8921786,0
+49,Marathi,"['Home Insurance', 'Education Insurance', 'Life Insurance']",82,4,Marathi,21,Life Insurance,24.89450587,7,4,4,0,387.290361,1
+49,Marathi,"['Life Insurance', 'Health Insurance', 'Education Insurance']",70,1,Marathi,43,Car Insurance,25.97739016,6,2,3,0,523.2949365,0
+41,Hindi,"['Education Insurance', 'Car Insurance', 'Life Insurance']",92,4,Hindi,35,Health Insurance,20.67486393,8,3,3,0,490.586647,0
+22,Telgu,['Life Insurance'],47,2,Telgu,25,Life Insurance,20.54062788,9,3,3,2,343.2206952,0
+41,Hindi,"['Home Insurance', 'Health Insurance', 'Education Insurance']",49,3,Hindi,43,Home Insurance,23.6499583,7,4,4,2,416.3383573,1
+46,Marathi,"['Home Insurance', 'Life Insurance', 'Health Insurance']",23,1,Marathi,37,Car Insurance,26.40731344,6,3,2,0,547.9562841,0
+31,Hindi,"['Home Insurance', 'Education Insurance']",50,3,Hindi,9,Education Insurance,32.47805902,12,5,6,0,377.5929661,1
+41,English,"['Home Insurance', 'Life Insurance', 'Health Insurance']",84,7,English,22,Home Insurance,27.55079262,8,4,4,4,406.5059992,0
+47,Hindi,"['Health Insurance', 'Education Insurance', 'Car Insurance']",90,7,Hindi,7,Education Insurance,24.01337879,6,3,3,3,589.5652316,0
+21,Telgu,['Health Insurance'],50,3,Telgu,35,Health Insurance,29.33782574,9,3,3,2,233.5688571,0
+46,Telgu,"['Health Insurance', 'Home Insurance', 'Car Insurance']",91,5,Telgu,14,Health Insurance,24.07113841,5,2,2,1,377.9620791,0
+28,Hindi,['Car Insurance'],21,1,Hindi,33,Home Insurance,20.81179233,7,2,3,3,469.5622051,0
+45,Urdu,"['Health Insurance', 'Life Insurance', 'Education Insurance']",77,5,Urdu,17,Life Insurance,24.9517162,6,3,2,0,353.1169561,0
+42,Hindi,"['Car Insurance', 'Home Insurance', 'Health Insurance']",56,4,Hindi,16,Education Insurance,19.40059687,2,0,0,0,508.5767625,0
+29,Hindi,['Health Insurance'],52,3,Hindi,43,Life Insurance,28.58690366,9,4,3,0,325.9683686,0
+49,Marathi,"['Home Insurance', 'Car Insurance', 'Life Insurance']",71,1,Marathi,18,Life Insurance,32.40747788,15,9,9,3,415.0762267,0
+42,English,"['Education Insurance', 'Car Insurance', 'Home Insurance']",76,6,English,19,Car Insurance,31.40402854,12,8,9,0,251.3178803,1
+42,Telgu,"['Life Insurance', 'Car Insurance', 'Education Insurance']",96,3,Telgu,9,Home Insurance,22.06744903,7,2,4,0,355.0940536,1
+47,Telgu,"['Car Insurance', 'Life Insurance', 'Home Insurance']",23,1,Telgu,22,Home Insurance,29.09487311,8,3,2,3,404.7650996,0
+37,Urdu,"['Health Insurance', 'Life Insurance']",58,4,Urdu,35,Car Insurance,27.98497847,6,2,4,1,561.7732513,1
+43,Telgu,"['Health Insurance', 'Education Insurance', 'Life Insurance']",69,3,Telgu,43,Education Insurance,26.05063955,5,3,3,0,261.0592312,0
+21,Marathi,['Home Insurance'],70,3,Marathi,36,Life Insurance,23.42500418,6,2,4,0,338.2571912,1
+27,Telgu,['Education Insurance'],70,1,Telgu,0,Education Insurance,26.97053147,9,2,4,2,417.7466097,1
+33,Hindi,"['Education Insurance', 'Home Insurance']",27,1,Hindi,12,Health Insurance,23.69789476,8,3,4,0,246.2542598,1
+43,English,"['Car Insurance', 'Home Insurance', 'Life Insurance']",84,2,English,34,Life Insurance,22.52373741,9,3,2,4,473.8789512,0
+44,Hindi,"['Life Insurance', 'Car Insurance', 'Education Insurance']",79,3,Hindi,28,Health Insurance,30.57914113,14,8,9,0,421.4075495,1
+33,Hindi,"['Home Insurance', 'Education Insurance']",37,1,Hindi,32,Education Insurance,26.41827071,8,2,3,0,424.1551686,0
+22,Urdu,['Life Insurance'],25,1,Urdu,8,Health Insurance,16.44668288,4,0,1,3,567.7641088,0
+27,English,['Life Insurance'],98,3,English,18,Education Insurance,26.69929464,5,4,3,3,579.7866022,0
+40,Telgu,"['Life Insurance', 'Car Insurance', 'Health Insurance']",22,1,Telgu,26,Health Insurance,29.40915879,5,2,3,4,244.6050848,0
+38,Urdu,"['Life Insurance', 'Car Insurance']",76,5,Urdu,32,Health Insurance,17.01339057,0,1,0,2,427.4670503,0
+29,English,['Home Insurance'],76,3,English,12,Car Insurance,23.2654571,5,2,4,4,620.839171,0
+27,Urdu,['Education Insurance'],86,3,Urdu,28,Life Insurance,24.90632711,5,3,4,0,311.0584666,1
+29,Urdu,['Health Insurance'],99,1,Urdu,7,Car Insurance,31.14352989,11,7,9,0,334.4572128,1
+28,Urdu,['Health Insurance'],55,2,Urdu,25,Car Insurance,24.78886688,5,2,4,0,627.8089483,1
+44,Hindi,"['Home Insurance', 'Life Insurance', 'Health Insurance']",72,1,Hindi,2,Education Insurance,27.54993726,8,3,2,0,622.1281215,0
+28,Urdu,['Home Insurance'],38,1,Urdu,36,Life Insurance,23.69245251,5,2,4,1,387.7610797,1
+40,English,"['Health Insurance', 'Life Insurance', 'Education Insurance']",98,2,English,31,Health Insurance,21.74541946,8,4,2,2,540.1037501,0
+47,Hindi,"['Life Insurance', 'Home Insurance', 'Health Insurance']",51,3,Hindi,27,Life Insurance,29.46670725,9,3,2,2,582.1239005,0
+28,English,['Car Insurance'],66,3,English,44,Health Insurance,19.6288643,2,0,1,0,287.2053113,0
+24,Telgu,['Health Insurance'],52,1,Telgu,22,Education Insurance,17.06205775,2,1,1,1,400.8769337,0
+31,Marathi,"['Home Insurance', 'Health Insurance']",55,4,Marathi,25,Education Insurance,29.35757932,8,2,3,1,465.5257906,0
+26,Telgu,['Life Insurance'],80,2,Telgu,11,Education Insurance,21.93644291,6,3,4,0,574.0112786,1
+42,Marathi,"['Education Insurance', 'Health Insurance', 'Car Insurance']",30,2,Marathi,14,Education Insurance,22.56320806,6,4,2,0,445.4468988,0
+33,Marathi,"['Life Insurance', 'Health Insurance']",58,2,Marathi,16,Health Insurance,26.29073019,9,2,3,4,503.1228187,0
+48,English,"['Life Insurance', 'Home Insurance', 'Health Insurance']",68,4,English,18,Health Insurance,29.91391971,9,4,3,1,564.6114347,0
+47,Marathi,"['Car Insurance', 'Education Insurance', 'Home Insurance']",78,4,Marathi,42,Life Insurance,21.95776134,7,2,2,1,159.1227056,0
+20,Marathi,['Car Insurance'],56,4,Marathi,37,Car Insurance,24.97407847,6,2,2,0,664.6899213,0
+27,Hindi,['Education Insurance'],92,5,Hindi,18,Health Insurance,25.05954203,7,4,2,2,261.4191706,0
+36,Hindi,"['Home Insurance', 'Life Insurance']",33,1,Hindi,23,Home Insurance,19.01897219,3,0,0,0,524.3238471,0
+45,Urdu,"['Education Insurance', 'Life Insurance', 'Home Insurance']",49,1,Urdu,5,Health Insurance,26.0811515,9,4,2,0,464.0528096,0
+22,Urdu,['Home Insurance'],63,3,Urdu,36,Education Insurance,30.05859691,12,5,8,0,605.2937128,1
+46,English,"['Health Insurance', 'Life Insurance', 'Education Insurance']",97,4,English,11,Car Insurance,25.01202691,6,4,2,1,485.6387932,0
+44,Marathi,"['Health Insurance', 'Car Insurance', 'Home Insurance']",70,3,Marathi,1,Car Insurance,25.95041336,8,3,3,1,455.9519167,0
+21,Marathi,['Home Insurance'],20,1,Marathi,30,Life Insurance,33.49313535,17,5,9,0,435.6108388,1
+25,Telgu,['Health Insurance'],90,1,Telgu,10,Education Insurance,31.02480164,18,9,6,0,365.6963851,1
+21,Marathi,['Life Insurance'],60,4,Marathi,30,Health Insurance,22.33343061,5,3,4,3,356.4341366,0
+43,English,"['Health Insurance', 'Car Insurance', 'Education Insurance']",52,2,English,18,Education Insurance,30.99962583,17,6,6,0,404.3524229,1
+45,Urdu,"['Education Insurance', 'Life Insurance', 'Home Insurance']",85,4,Urdu,32,Life Insurance,21.38910774,9,2,3,1,529.2692861,0
+38,English,"['Health Insurance', 'Home Insurance']",70,5,English,40,Education Insurance,23.02681279,6,3,3,0,610.8437741,0
+39,Urdu,"['Health Insurance', 'Education Insurance']",66,5,Urdu,3,Health Insurance,25.93048941,5,2,4,1,545.4307151,1
+37,Hindi,"['Education Insurance', 'Life Insurance']",34,2,Hindi,16,Home Insurance,34.77753184,18,7,8,0,529.5792568,1
+49,Hindi,"['Health Insurance', 'Life Insurance', 'Car Insurance']",50,1,Hindi,30,Home Insurance,18.63437248,1,1,1,0,406.3632421,0
+40,Telgu,"['Health Insurance', 'Car Insurance', 'Life Insurance']",41,2,Telgu,35,Home Insurance,19.31736443,3,1,0,0,377.6000836,0
+45,Hindi,"['Education Insurance', 'Life Insurance', 'Health Insurance']",95,2,Hindi,14,Life Insurance,23.6937024,7,3,4,0,413.6696879,1
+34,Marathi,"['Life Insurance', 'Education Insurance']",77,3,Marathi,16,Home Insurance,31.44916284,18,8,5,0,469.3605992,1
+29,Telgu,['Health Insurance'],39,2,Telgu,18,Home Insurance,25.27037656,6,2,2,0,681.3610205,0
+49,Telgu,"['Car Insurance', 'Health Insurance', 'Education Insurance']",77,4,Telgu,10,Education Insurance,20.49561794,9,4,4,0,637.3279749,1
+23,Urdu,['Life Insurance'],47,2,Urdu,38,Health Insurance,24.8947556,9,2,3,0,450.0631512,0
+31,Urdu,"['Life Insurance', 'Health Insurance']",48,2,Urdu,13,Car Insurance,22.77030575,5,2,2,1,268.1426963,0
+48,Telgu,"['Health Insurance', 'Life Insurance', 'Home Insurance']",50,3,Telgu,28,Home Insurance,27.46040615,9,3,4,4,495.4370416,0
+48,Hindi,"['Car Insurance', 'Education Insurance', 'Home Insurance']",71,3,Hindi,19,Life Insurance,21.58493751,6,4,2,0,456.3393643,0
+46,Marathi,"['Education Insurance', 'Health Insurance', 'Car Insurance']",44,3,Marathi,34,Health Insurance,18.84904457,3,1,0,0,385.7180312,0
+20,English,['Education Insurance'],63,3,English,18,Home Insurance,26.25505472,5,2,4,0,462.5860084,1
+25,Marathi,['Health Insurance'],62,2,Marathi,3,Life Insurance,20.47244321,9,3,2,1,619.8137628,0
+33,Hindi,"['Home Insurance', 'Life Insurance']",38,2,Hindi,13,Education Insurance,19.8877028,0,1,0,0,508.7477412,0
+48,Telgu,"['Car Insurance', 'Home Insurance', 'Health Insurance']",41,3,Telgu,36,Education Insurance,18.56679004,4,1,0,0,487.49813,0
+43,Telgu,"['Health Insurance', 'Car Insurance', 'Education Insurance']",96,7,Telgu,20,Car Insurance,20.52474944,5,2,4,0,307.1200287,1
+43,Telgu,"['Home Insurance', 'Car Insurance', 'Health Insurance']",90,2,Telgu,23,Home Insurance,19.54072333,2,1,1,0,340.8782257,0
+48,Urdu,"['Health Insurance', 'Education Insurance', 'Home Insurance']",62,3,Urdu,48,Education Insurance,22.64507185,5,4,3,1,501.7202016,0
+48,Hindi,"['Home Insurance', 'Education Insurance', 'Life Insurance']",62,1,Hindi,5,Life Insurance,27.84823205,8,4,2,0,417.6726357,0
+49,Marathi,"['Life Insurance', 'Car Insurance', 'Health Insurance']",98,6,Marathi,3,Life Insurance,22.14319835,6,3,2,3,379.2204598,0
+33,Urdu,"['Life Insurance', 'Home Insurance']",77,3,Urdu,33,Life Insurance,21.29778463,9,4,2,0,446.7563165,0
+49,Telgu,"['Car Insurance', 'Life Insurance', 'Home Insurance']",80,3,Telgu,19,Life Insurance,17.13543143,3,1,1,2,348.3510734,0
+22,Urdu,['Home Insurance'],84,4,Urdu,3,Education Insurance,23.07710284,6,2,4,2,215.4389832,1
+31,Urdu,"['Car Insurance', 'Health Insurance']",60,2,Urdu,47,Health Insurance,25.91326716,5,2,4,0,369.0842068,1
+33,Urdu,"['Health Insurance', 'Education Insurance']",72,3,Urdu,34,Education Insurance,28.96336799,7,2,4,0,442.9305169,1
+26,Marathi,['Life Insurance'],20,1,Marathi,35,Life Insurance,24.92178645,8,4,3,1,407.7664064,0
+36,Urdu,"['Education Insurance', 'Home Insurance']",91,3,Urdu,47,Education Insurance,19.80416224,0,0,1,4,288.5893974,0
+41,Urdu,"['Car Insurance', 'Health Insurance', 'Education Insurance']",29,1,Urdu,0,Car Insurance,21.70794692,8,4,2,2,527.508763,0
+35,English,"['Health Insurance', 'Home Insurance']",81,1,English,12,Life Insurance,27.83308979,6,4,4,3,502.2980755,0
+26,English,['Education Insurance'],37,2,English,18,Education Insurance,26.84948243,8,2,3,4,374.1743274,0
+25,Marathi,['Education Insurance'],31,1,Marathi,38,Home Insurance,24.46460326,7,2,3,2,415.7758034,0
+40,Marathi,"['Education Insurance', 'Home Insurance', 'Life Insurance']",75,2,Marathi,30,Life Insurance,29.10924176,6,3,4,0,486.3597186,1
+35,Hindi,"['Home Insurance', 'Health Insurance']",77,1,Hindi,42,Life Insurance,27.53558655,8,2,3,0,467.9602163,0
+34,Urdu,"['Health Insurance', 'Car Insurance']",97,3,Urdu,4,Life Insurance,25.45139875,9,2,2,0,405.0168705,0
+41,Marathi,"['Health Insurance', 'Life Insurance', 'Car Insurance']",42,2,Marathi,20,Home Insurance,25.0577267,6,2,3,2,386.2115894,0
+44,English,"['Home Insurance', 'Health Insurance', 'Car Insurance']",93,3,English,17,Education Insurance,26.26216533,5,4,4,0,535.1045441,1
+35,Telgu,"['Health Insurance', 'Life Insurance']",50,1,Telgu,28,Home Insurance,29.05245888,5,3,3,0,569.4101466,0
+42,English,"['Health Insurance', 'Car Insurance', 'Education Insurance']",41,3,English,18,Education Insurance,30.02597633,11,8,9,0,524.2384975,1
+37,Marathi,"['Health Insurance', 'Life Insurance']",34,1,Marathi,43,Home Insurance,33.03241711,11,9,7,2,430.3839776,1
+28,English,['Health Insurance'],97,6,English,4,Car Insurance,26.27420766,5,4,2,0,685.9950143,0
+27,English,['Education Insurance'],43,1,English,8,Life Insurance,28.13572385,5,2,4,0,435.311681,1
+26,Hindi,['Education Insurance'],94,2,Hindi,39,Home Insurance,27.68208384,5,4,4,0,288.6295428,1
+37,Telgu,"['Car Insurance', 'Health Insurance']",59,4,Telgu,19,Health Insurance,23.13901989,9,4,2,0,605.4053553,0
+38,Telgu,"['Home Insurance', 'Car Insurance']",29,1,Telgu,9,Education Insurance,16.9820113,0,1,1,3,418.1665516,0
+27,Hindi,['Life Insurance'],42,1,Hindi,2,Car Insurance,18.00748077,2,0,1,2,487.8317175,0
+21,Urdu,['Home Insurance'],63,1,Urdu,9,Education Insurance,28.31286281,5,3,3,0,569.6025024,0
+22,Telgu,['Life Insurance'],77,3,Telgu,9,Education Insurance,22.74104815,8,4,4,3,669.5617467,0
+32,English,"['Education Insurance', 'Life Insurance']",76,5,English,2,Life Insurance,24.82620684,9,4,2,1,594.9425217,0
+40,Marathi,"['Health Insurance', 'Life Insurance', 'Home Insurance']",81,2,Marathi,2,Life Insurance,37.16606549,12,6,8,0,463.6019845,1
+32,Hindi,"['Home Insurance', 'Health Insurance']",58,3,Hindi,3,Health Insurance,21.97285449,5,4,2,0,551.7197819,0
+20,Telgu,['Life Insurance'],28,1,Telgu,4,Home Insurance,32.52259047,16,8,7,0,375.7066544,1
+38,Marathi,"['Home Insurance', 'Car Insurance']",96,2,Marathi,34,Home Insurance,26.13899571,6,2,3,1,277.010443,0
+49,Telgu,"['Education Insurance', 'Home Insurance', 'Life Insurance']",52,2,Telgu,28,Life Insurance,25.43111836,8,3,2,0,568.5953542,0
+39,Telgu,"['Life Insurance', 'Education Insurance']",20,1,Telgu,29,Home Insurance,23.99494898,8,3,4,0,341.4978115,1
+33,Hindi,"['Car Insurance', 'Home Insurance']",90,6,Hindi,3,Life Insurance,20.90698641,5,3,2,1,407.6693942,0
+24,Telgu,['Car Insurance'],66,4,Telgu,42,Life Insurance,23.0959314,7,4,3,0,250.572674,0
+27,Marathi,['Life Insurance'],68,5,Marathi,2,Education Insurance,28.42644856,9,4,3,4,482.8409977,0
+28,English,['Car Insurance'],80,4,English,27,Health Insurance,18.2805614,1,1,1,2,483.13098,0
+41,Telgu,"['Education Insurance', 'Home Insurance', 'Health Insurance']",39,2,Telgu,43,Education Insurance,15.21811184,0,1,1,0,482.0856209,0
+23,Telgu,['Car Insurance'],30,1,Telgu,46,Life Insurance,28.70428014,8,3,3,0,589.2323093,0
+38,English,"['Car Insurance', 'Education Insurance']",69,3,English,29,Car Insurance,28.31743948,8,2,3,4,642.6926296,0
+39,Urdu,"['Education Insurance', 'Health Insurance']",38,2,Urdu,22,Education Insurance,32.58990439,18,7,6,1,330.2892755,1
+36,Urdu,"['Home Insurance', 'Car Insurance']",61,2,Urdu,48,Car Insurance,27.7441953,5,4,3,1,519.103511,0
+26,English,['Health Insurance'],63,5,English,27,Life Insurance,25.85126655,6,4,2,2,498.7154075,0
+47,Urdu,"['Home Insurance', 'Education Insurance', 'Health Insurance']",70,4,Urdu,2,Education Insurance,18.36468817,2,0,0,2,620.3424621,0
+20,Hindi,['Education Insurance'],80,3,Hindi,29,Life Insurance,27.86543896,5,3,2,0,437.5396697,0
+20,English,['Education Insurance'],61,3,English,13,Car Insurance,26.33628834,6,2,3,4,332.5507461,0
+21,Hindi,['Car Insurance'],75,6,Hindi,3,Home Insurance,30.94112821,10,5,7,1,462.2064622,1
+38,English,"['Car Insurance', 'Life Insurance']",60,4,English,21,Home Insurance,20.97202684,9,2,3,1,494.497606,0
+24,English,['Life Insurance'],89,5,English,42,Life Insurance,26.31460777,8,2,3,0,429.9703289,0
+35,Marathi,"['Education Insurance', 'Home Insurance']",79,2,Marathi,40,Health Insurance,25.33623127,9,4,3,0,702.2715093,0
+44,English,"['Car Insurance', 'Health Insurance', 'Education Insurance']",98,8,English,23,Health Insurance,20.79204613,6,3,4,4,322.8000347,0
+32,English,"['Life Insurance', 'Car Insurance']",67,4,English,7,Home Insurance,24.45966395,5,4,4,1,454.8255357,1
+36,English,"['Car Insurance', 'Education Insurance']",39,2,English,32,Life Insurance,35.91374834,13,8,5,2,438.4612718,1
+20,Telgu,['Education Insurance'],29,1,Telgu,42,Home Insurance,20.42326522,9,3,3,2,453.9747839,0
+26,Marathi,['Car Insurance'],91,1,Marathi,47,Home Insurance,23.83444405,8,4,4,3,541.9235089,0
+34,Hindi,"['Health Insurance', 'Life Insurance']",59,4,Hindi,17,Car Insurance,23.81511857,5,4,3,2,561.4732383,0
