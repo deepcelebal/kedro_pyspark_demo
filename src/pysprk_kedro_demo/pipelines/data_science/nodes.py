@@ -27,8 +27,7 @@ def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> None:
     with mlflow.start_run(experiment_id=experiment.experiment_id):
         
         classifier = GBTClassifier(featuresCol = 'features', labelCol = 'Converted')
-        Model = classifier.fit(training_data)
-        sklearn.log_model(sk_model=Model,artifact_path="model_rf")
+        sklearn.log_model(sk_model=classifier.fit(training_data),artifact_path="model_rf")
         
         print('*******************Training Finished*******************')
 
