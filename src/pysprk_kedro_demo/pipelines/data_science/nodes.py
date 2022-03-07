@@ -23,8 +23,8 @@ def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> None:
     For more information about random forest classifier with spark, please visit:
     https://spark.apache.org/docs/latest/ml-classification-regression.html#random-forest-classifier
     """
-    experiment_id = mlflow.set_experiment("/Users/deep.contractor@celebaltech.com/kedro-demo-pyspark")
-    experiment = mlflow.get_experiment(experiment_id) 
+#     experiment_id = mlflow.set_experiment("/Users/deep.contractor@celebaltech.com/kedro-demo-pyspark")
+    experiment = mlflow.get_experiment('4022962766503319') 
     with mlflow.start_run(experiment_id=experiment.experiment_id):
         
         classifier = GBTClassifier(featuresCol = 'features', labelCol = 'Converted')
