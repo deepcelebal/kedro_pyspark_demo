@@ -6,6 +6,7 @@ such as:
 """
 import logging
 import mlflow
+from mlflow import spark
 from mlflow import sklearn
 import datetime as dt
 from typing import Any, Dict
@@ -27,7 +28,7 @@ def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> None:
     with mlflow.start_run(experiment_id=experiment.experiment_id):
         
         classifier = GBTClassifier(featuresCol = 'features', labelCol = 'Converted')
-        sklearn.log_model(sk_model=classifier.fit(training_data),artifact_path="model_rf")
+        mlflow.spark.log_model(sk_model=classifier.fit(training_data),artifact_path="model_rf")
         
         print('*******************Training Finished*******************')
 
