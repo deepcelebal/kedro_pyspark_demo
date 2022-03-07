@@ -13,7 +13,7 @@
 # template. Please feel free to remove it once you remove the example pipeline.
 agent_routing:
   type: spark.SparkDataSet
-  filepath: data/01_raw/Agent_Routing.csv
+  filepath: dbfs:/FileStore/Agent_Routing.csv
   file_format: csv
   load_args:
     header: true
@@ -22,13 +22,4 @@ agent_routing:
     sep: ","
     header: true
 
-# This is an example how to use `MemoryDataSet` with Spark objects that aren't `DataFrame`'s.
-# In particular, the `assign` copy mode ensures that the `MemoryDataSet` will be assigned
-# the Spark object itself, not a deepcopy version of it, since deepcopy doesn't work with
-# Spark object generally.
-
-example_classifier:
-  type: pickle.PickleDataSet
-  filepath: data/07_model_output/model.pkl
-  backend: pickle
-
+#data/01_raw/Agent_Routing.csv
