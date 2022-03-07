@@ -27,7 +27,7 @@ def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> RandomF
         
         classifier = RandomForestClassifier(featuresCol = 'features', labelCol = 'Converted')
         rfModel = classifier.fit(training_data)
-        sklearn.log_model(sk_model=rfModel)
+        sklearn.log_model(sk_model=rfModel,artifact_path="model_rf")
         
         print('*******************Training Finished*******************')
 
