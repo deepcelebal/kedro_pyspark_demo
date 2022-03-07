@@ -23,4 +23,4 @@ def get_inference(testing_data: DataFrame):
     predictions = loaded_model.transform(testing_data)
     predict = predictions.select(predictions.prediction)
 
-    return predictions
+    return predict
