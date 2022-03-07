@@ -37,7 +37,6 @@ predictions:
   type: spark.SparkDataSet
   filepath: dbfs:/FileStore/predictions.csv
   file_format: csv
-  copy_mode : assign
   load_args:
     header: true
     inferSchema: true
