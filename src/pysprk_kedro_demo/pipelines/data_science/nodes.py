@@ -9,7 +9,8 @@ import mlflow
 from mlflow import sklearn
 import datetime as dt
 from typing import Any, Dict
-from pyspark.ml.classification import RandomForestClassifier
+# from pyspark.ml.classification import RandomForestClassifier
+from pyspark.ml.classification import GBTClassifier
 from pyspark.ml.evaluation import MulticlassClassificationEvaluator
 from pyspark.sql import DataFrame
 
@@ -25,7 +26,7 @@ def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> RandomF
     experiment = mlflow.get_experiment(experiment_id) 
     with mlflow.start_run(experiment_id=experiment.experiment_id):
         
-        classifier = RandomForestClassifier(featuresCol = 'features', labelCol = 'Converted')
+        classifier = GBTClassifier(featuresCol = 'features', labelCol = 'Converted')
         rfModel = classifier.fit(training_data)
         sklearn.log_model(sk_model=rfModel,artifact_path="model_rf")
         
