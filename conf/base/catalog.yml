@@ -33,16 +33,16 @@ testing_data:
     sep: ","
     header: true
 
-# predictions:
-#   type: spark.SparkDataSet
-#   filepath: dbfs:/FileStore/predictions.csv
-#   file_format: csv
-#   copy_mode : assign
-#   load_args:
-#     header: true
-#     inferSchema: true
-#   save_args:
-#     sep: ","
-#     header: true
+predictions:
+  type: spark.SparkDataSet
+  filepath: dbfs:/FileStore/predictions.csv
+  file_format: csv
+  copy_mode : assign
+  load_args:
+    header: true
+    inferSchema: true
+  save_args:
+    sep: ","
+    header: true
 
 #data/01_raw/Agent_Routing.csv

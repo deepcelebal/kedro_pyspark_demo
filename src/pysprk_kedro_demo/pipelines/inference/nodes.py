@@ -19,12 +19,8 @@ def get_inference(testing_data: DataFrame):
 
     logged_model = 'runs:/873d89ca676246c691c1a3c0ce901104/model_rf'
 
-    # Load model as a Spark UDF. Override result_type if the model does not return double values.
     loaded_model = mlflow.spark.load_model(logged_model)
     predictions = loaded_model.transform(testing_data)
+    predict = predictions.select(predictions.prediction)
 
-    predictions.write.format("com.databricks.spark.csv").option("header", "true").save("dbfs:/FileStore/predictions.csv")
-
-
-
-    # return predictions
+    return predictions
