@@ -23,7 +23,7 @@ def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> RandomF
     """
     experiment_id = mlflow.create_experiment("Agent_Routing_Pyspark" + str(dt.datetime.now()))
     experiment = mlflow.get_experiment(experiment_id) 
-    with mlflow.start_run():
+    with mlflow.start_run(experiment_id=experiment.experiment_id):
         
         classifier = RandomForestClassifier(featuresCol = 'features', labelCol = 'Converted')
         rfModel = classifier.fit(training_data)
