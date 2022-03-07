@@ -21,7 +21,7 @@ def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> RandomF
     For more information about random forest classifier with spark, please visit:
     https://spark.apache.org/docs/latest/ml-classification-regression.html#random-forest-classifier
     """
-    experiment_id = mlflow.create_experiment("/Users/deep.contractor@celebaltech.com/kedro-demo-pyspark"))
+    experiment_id = mlflow.create_experiment("/Users/deep.contractor@celebaltech.com/kedro-demo-pyspark")
     experiment = mlflow.get_experiment(experiment_id) 
     with mlflow.start_run(experiment_id=experiment.experiment_id):
         
