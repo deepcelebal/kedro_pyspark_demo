@@ -15,7 +15,7 @@ from pyspark.ml.evaluation import MulticlassClassificationEvaluator
 from pyspark.sql import DataFrame
 
 
-def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> RandomForestClassifier:
+def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> None:
     """Node for training a random forest model to classify the data.
     The number of trees is defined in conf/project/parameters.yml
     and passed into this node via the `parameters` argument.
@@ -27,8 +27,8 @@ def train_model(training_data: DataFrame, parameters: Dict[str, Any]) -> RandomF
     with mlflow.start_run(experiment_id=experiment.experiment_id):
         
         classifier = GBTClassifier(featuresCol = 'features', labelCol = 'Converted')
-        rfModel = classifier.fit(training_data)
-        sklearn.log_model(sk_model=rfModel,artifact_path="model_rf")
+        Model = classifier.fit(training_data)
+        sklearn.log_model(sk_model=Model,artifact_path="model_rf")
         
         print('*******************Training Finished*******************')
 
