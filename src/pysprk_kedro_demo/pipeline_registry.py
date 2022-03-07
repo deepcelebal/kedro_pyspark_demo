@@ -5,6 +5,7 @@ from kedro.pipeline import Pipeline
 
 from pysprk_kedro_demo.pipelines import data_engineering as de
 from pysprk_kedro_demo.pipelines import data_science as ds
+from pysprk_kedro_demo.pipelines import inference as inf
 
 
 def register_pipelines() -> Dict[str, Pipeline]:
@@ -16,9 +17,10 @@ def register_pipelines() -> Dict[str, Pipeline]:
     """
     data_engineering_pipeline = de.create_pipeline()
     data_science_pipeline = ds.create_pipeline()
-
+    inference_pipeline = inf.create_pipeline()
     return {
         "de": data_engineering_pipeline,
         "ds": data_science_pipeline,
+        "inf":inference_pipeline,
         "__default__": data_engineering_pipeline + data_science_pipeline,
     }
