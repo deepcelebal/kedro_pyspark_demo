@@ -4,7 +4,6 @@ from typing import List, Any, Dict
 from pyspark.sql.functions import col, when, explode
 from pyspark.ml.feature import StringIndexer, VectorAssembler
 
-
 def transform_f(df: DataFrame) -> DataFrame:
 
     raw_feature_columns = ["CE_Language", "C_Language", "C_Field"]
