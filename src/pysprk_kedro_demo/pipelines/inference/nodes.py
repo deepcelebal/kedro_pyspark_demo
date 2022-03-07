@@ -12,7 +12,7 @@ from pysprk_kedro_demo.pipelines import data_engineering
 from pysprk_kedro_demo.pipelines.data_engineering.nodes import transform_f, transform_features
 
 
-def get_inference(testing_data: DataFrame) -> DataFrame:
+def get_inference(testing_data: DataFrame):
     
     testing_data = transform_f(testing_data)
     testing_data = transform_features(testing_data)
@@ -23,4 +23,8 @@ def get_inference(testing_data: DataFrame) -> DataFrame:
     loaded_model = mlflow.spark.load_model(logged_model)
     predictions = loaded_model.transform(testing_data)
 
-    return predictions
+    predictions.write.format(“com.databricks.spark.csv”).option(“header”, “true”).save(“dbfs:/FileStore/predictions.csv")
+
+
+
+    # return predictions

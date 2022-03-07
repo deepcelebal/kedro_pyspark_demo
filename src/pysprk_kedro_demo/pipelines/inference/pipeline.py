@@ -12,7 +12,7 @@ def create_pipeline(**kwargs):
             node(
                 get_inference,
                 inputs="testing_data",
-                outputs="predictions",
+                outputs=None,
             ),
         ]
     )
