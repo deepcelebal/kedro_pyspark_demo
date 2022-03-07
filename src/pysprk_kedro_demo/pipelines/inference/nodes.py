@@ -23,7 +23,7 @@ def get_inference(testing_data: DataFrame):
     loaded_model = mlflow.spark.load_model(logged_model)
     predictions = loaded_model.transform(testing_data)
 
-    predictions.write.format(“com.databricks.spark.csv”).option(“header”, “true”).save(“dbfs:/FileStore/predictions.csv")
+    predictions.write.format("com.databricks.spark.csv").option("header", "true").save("dbfs:/FileStore/predictions.csv")
 
 
 
